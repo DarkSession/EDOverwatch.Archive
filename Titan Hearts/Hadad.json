@@ -1,0 +1,39 @@
+{
+  "Name": "Hadad",
+  "MeltdownTimeEstimate": "2024-05-26T02:39:00+00:00",
+  "CompletionTimeEstimate": "2024-05-25T04:23:25.186699+00:00",
+  "Hearts": [
+    {
+      "HeartNumber": 1,
+      "DestructionTime": "2024-05-23T16:02:39+00:00"
+    },
+    {
+      "HeartNumber": 2,
+      "DestructionTime": "2024-05-23T19:46:40+00:00"
+    },
+    {
+      "HeartNumber": 3,
+      "DestructionTime": "2024-05-23T23:54:35+00:00"
+    },
+    {
+      "HeartNumber": 4,
+      "DestructionTime": "2024-05-24T08:34:57+00:00"
+    },
+    {
+      "HeartNumber": 5,
+      "DestructionTime": "2024-05-24T16:14:01+00:00"
+    },
+    {
+      "HeartNumber": 6,
+      "DestructionTime": "2024-05-24T19:47:24+00:00"
+    },
+    {
+      "HeartNumber": 7,
+      "DestructionTime": "2024-05-24T23:04:00+00:00"
+    },
+    {
+      "HeartNumber": 8,
+      "DestructionTime": "2024-05-25T02:40:00+00:00"
+    }
+  ]
+}

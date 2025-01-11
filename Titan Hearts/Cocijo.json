@@ -1,0 +1,39 @@
+{
+  "Name": "Cocijo",
+  "MeltdownTimeEstimate": "2024-12-18T06:46:00+00:00",
+  "CompletionTimeEstimate": "2024-12-17T06:46:00+00:00",
+  "Hearts": [
+    {
+      "HeartNumber": 1,
+      "DestructionTime": "2024-12-12T21:27:34+00:00"
+    },
+    {
+      "HeartNumber": 2,
+      "DestructionTime": "2024-12-13T19:05:04+00:00"
+    },
+    {
+      "HeartNumber": 3,
+      "DestructionTime": "2024-12-14T16:22:13+00:00"
+    },
+    {
+      "HeartNumber": 4,
+      "DestructionTime": "2024-12-15T09:49:13+00:00"
+    },
+    {
+      "HeartNumber": 5,
+      "DestructionTime": "2024-12-16T00:37:02+00:00"
+    },
+    {
+      "HeartNumber": 6,
+      "DestructionTime": "2024-12-16T17:56:20+00:00"
+    },
+    {
+      "HeartNumber": 7,
+      "DestructionTime": "2024-12-17T00:11:10+00:00"
+    },
+    {
+      "HeartNumber": 8,
+      "DestructionTime": "2024-12-17T06:46:00+00:00"
+    }
+  ]
+}

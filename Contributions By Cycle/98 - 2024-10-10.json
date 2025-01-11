@@ -1,0 +1,7616 @@
+[
+  {
+    "Address": 6681123623626,
+    "Name": "Deciat",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 216054883492,
+    "Name": "Asterope",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 309
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 91
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 392
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 102
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 503
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 153
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 416
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 12
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 316
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 109
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 221
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 64
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 382
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 45
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 1733321102034,
+    "Name": "Kuwemaki",
+    "Contributions": [
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 5031856116434,
+    "Name": "Kamadhenu",
+    "Contributions": [
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Address": 1659744799067,
+    "Name": "HIP 20567",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 13
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 10
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 7
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleTitan",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "ProtectiveMembraneScrap",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidBiostorageCapsule",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScythe",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 1458309141194,
+    "Name": "Eurybia",
+    "Contributions": [
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 2931071895899,
+    "Name": "Trianguli Sector BA-A d85",
+    "Contributions": [
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 55
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 146
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 352
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 419
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 242
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 98
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 131
+      }
+    ]
+  },
+  {
+    "Address": 10477373803,
+    "Name": "Sol",
+    "Contributions": [
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 7
+      }
+    ]
+  },
+  {
+    "Address": 1900262951243,
+    "Name": "Delphi",
+    "Contributions": [
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 30
+      }
+    ]
+  },
+  {
+    "Address": 22960358574928,
+    "Name": "Luhman 16",
+    "Contributions": [
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Address": 3107509342922,
+    "Name": "Mainani",
+    "Contributions": [
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 5070342923641,
+    "Name": "Hyades Sector GB-N b7-2",
+    "Contributions": [
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 15
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 19
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      }
+    ]
+  },
+  {
+    "Address": 3107241104074,
+    "Name": "Khun",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 22953915599624,
+    "Name": "Qi Yomisii",
+    "Contributions": [
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 6
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 12
+      }
+    ]
+  },
+  {
+    "Address": 1183498310330,
+    "Name": "Swahku",
+    "Contributions": [
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 10
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 11
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      }
+    ]
+  },
+  {
+    "Address": 216618994011,
+    "Name": "HIP 8887",
+    "Contributions": [
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 6
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 6
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 7
+      }
+    ]
+  },
+  {
+    "Address": 3382722958010,
+    "Name": "Col 285 Sector YT-Q c5-12",
+    "Contributions": [
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      }
+    ]
+  },
+  {
+    "Address": 359066014402,
+    "Name": "Col 285 Sector AF-P c6-1",
+    "Contributions": [
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      }
+    ]
+  },
+  {
+    "Address": 4923953514851,
+    "Name": "Col 285 Sector OS-T d3-143",
+    "Contributions": [
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      }
+    ]
+  },
+  {
+    "Address": 13866973078913,
+    "Name": "Col 285 Sector YT-F b12-6",
+    "Contributions": [
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 1900296538467,
+    "Name": "HR 3048",
+    "Contributions": [
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 28
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 671491564969,
+    "Name": "Ross 129",
+    "Contributions": [
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Address": 5027032729955,
+    "Name": "Col 285 Sector OS-T d3-146",
+    "Contributions": [
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 20
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 4408557439331,
+    "Name": "Xinca",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 224644818084,
+    "Name": "Merope",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 11
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 56
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 11
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 13866167510393,
+    "Name": "Hyades Sector FB-N b7-6",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 23
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 22
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleTitan",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 62
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleOrthrus",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleGlaive",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleTitan",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "ProtectiveMembraneScrap",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidBiostorageCapsule",
+        "Amount": 7
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScythe",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 21
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 7
+      }
+    ]
+  },
+  {
+    "Address": 2871588431249,
+    "Name": "Karka",
+    "Contributions": [
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 13863214917009,
+    "Name": "Kaititja",
+    "Contributions": [
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 355489242029690,
+    "Name": "Blua Eaec WW-E c14-1293",
+    "Contributions": [
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 11
+      }
+    ]
+  },
+  {
+    "Address": 4207021101778,
+    "Name": "LFT 1",
+    "Contributions": [
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 220349850788,
+    "Name": "Sterope II",
+    "Contributions": [
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHydra",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 271889458340,
+    "Name": "HR 1183",
+    "Contributions": [
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 13863751787961,
+    "Name": "Yembo",
+    "Contributions": [
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 15
+      }
+    ]
+  },
+  {
+    "Address": 669611861281,
+    "Name": "Pleiades Sector MI-S b4-0",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 3687002933603,
+    "Name": "Sukurbago",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5917
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 9106
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 332
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 72
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHydra",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionRescue",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionThargoidKill",
+        "Amount": 124
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 12
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "ProtectiveMembraneScrap",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "EvacuationWounded",
+        "Amount": 35
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "EvacuatioRefugee",
+        "Amount": 824
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionRefugeeEvacuation",
+        "Amount": 94
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 17883
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 19379
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 871
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 390
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 37
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 11
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHydra",
+        "Amount": 34
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionRescue",
+        "Amount": 20
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionThargoidKill",
+        "Amount": 402
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 111
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "EvacuationWounded",
+        "Amount": 126
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "EvacuatioRefugee",
+        "Amount": 1744
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionRefugeeEvacuation",
+        "Amount": 174
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 34
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionThargoidKill",
+        "Amount": 8
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 7
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionThargoidKill",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 6
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionThargoidKill",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 13865093899689,
+    "Name": "LHS 1197",
+    "Contributions": [
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 43
+      }
+    ]
+  },
+  {
+    "Address": 8216113749,
+    "Name": "Maia",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 10
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 45
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 12
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 15
+      }
+    ]
+  },
+  {
+    "Address": 422827788643,
+    "Name": "HIP 38235",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 20
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidRevenant",
+        "Amount": 12
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBanshee",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 7
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 62
+      }
+    ]
+  },
+  {
+    "Address": 908620403386,
+    "Name": "HIP 25654",
+    "Contributions": [
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 9
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 108
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 83
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 34
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 9
+      }
+    ]
+  },
+  {
+    "Address": 319715002691,
+    "Name": "HIP 22460",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 182276016435,
+    "Name": "T Tauri",
+    "Contributions": [
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 237529719972,
+    "Name": "HIP 17692",
+    "Contributions": [
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 11
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 30
+      }
+    ]
+  },
+  {
+    "Address": 422827788635,
+    "Name": "HIP 37520",
+    "Contributions": [
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 6406245749434,
+    "Name": "Njambula",
+    "Contributions": [
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 670417626537,
+    "Name": "G 125-30",
+    "Contributions": [
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 198875014308,
+    "Name": "Celaeno",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 7269903312257,
+    "Name": "Col 285 Sector YT-F b12-3",
+    "Contributions": [
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 13
+      }
+    ]
+  },
+  {
+    "Address": 5067390199209,
+    "Name": "Hiranyaksha",
+    "Contributions": [
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 2553097996643,
+    "Name": "Lalande 4268",
+    "Contributions": [
+      {
+        "Date": "2024-10-16",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 358529110738,
+    "Name": "PPM 62114",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 6131367809730,
+    "Name": "Ahemakino",
+    "Contributions": [
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionSettlementReboot",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 11667681387905,
+    "Name": "Reienete",
+    "Contributions": [
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 1774711381,
+    "Name": "HR 1185",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 13
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 7
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 7
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 7
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 7
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 13863214785953,
+    "Name": "Pegasi Sector NN-S b4-6",
+    "Contributions": [
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 16062238041505,
+    "Name": "Pegasi Sector NN-S b4-7",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidImpureSpireMineral",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 2007796552402,
+    "Name": "Ewah",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 6
+      }
+    ]
+  },
+  {
+    "Address": 11667681453449,
+    "Name": "Putana",
+    "Contributions": [
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 669075187097,
+    "Name": "Alads",
+    "Contributions": [
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 5306801230530,
+    "Name": "Ao Kiang",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 9468658132353,
+    "Name": "Asletae",
+    "Contributions": [
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 13863214785961,
+    "Name": "Atorii",
+    "Contributions": [
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 11663923029401,
+    "Name": "Brigua",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3199
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 165
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 98
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 6
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHydra",
+        "Amount": 8
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 9422
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 1133
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 440
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 16
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHydra",
+        "Amount": 10
+      }
+    ]
+  },
+  {
+    "Address": 2832363098826,
+    "Name": "Camenisar",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 9450
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 932
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 378
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 42
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHydra",
+        "Amount": 38
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 123
+      }
+    ]
+  },
+  {
+    "Address": 2283144254146,
+    "Name": "Canaharvas",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 21
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 166
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1043
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 765
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1882
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 23
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 408
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 9
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 478
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 9
+      }
+    ]
+  },
+  {
+    "Address": 9468926633353,
+    "Name": "Chibis",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 18689
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 9865
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 819
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 288
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 41
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 8
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHydra",
+        "Amount": 75
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionThargoidKill",
+        "Amount": 396
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 135
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "EvacuatioRefugee",
+        "Amount": 371
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionRefugeeEvacuation",
+        "Amount": 33
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 13685
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 7677
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 993
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 485
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 35
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 16
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHydra",
+        "Amount": 105
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionThargoidKill",
+        "Amount": 512
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 246
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "EvacuatioRefugee",
+        "Amount": 166
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionRefugeeEvacuation",
+        "Amount": 11
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionThargoidKill",
+        "Amount": 10
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionThargoidKill",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 10
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionThargoidKill",
+        "Amount": 6
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionThargoidKill",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 3858734500203,
+    "Name": "Chinas",
+    "Contributions": [
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 7
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionSettlementReboot",
+        "Amount": 14
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionSettlementReboot",
+        "Amount": 6
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionSettlementReboot",
+        "Amount": 9
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionSettlementReboot",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Address": 13866973078921,
+    "Name": "Daisla",
+    "Contributions": [
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 96
+      }
+    ]
+  },
+  {
+    "Address": 3515204241755,
+    "Name": "Desurinbin",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 149
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidRevenant",
+        "Amount": 71
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBanshee",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 39
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 112
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 34
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 64
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidRevenant",
+        "Amount": 39
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBanshee",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Address": 4374197700963,
+    "Name": "Deuringas",
+    "Contributions": [
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 4614715869539,
+    "Name": "Hez Ur",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 42
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 162
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 432
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 7
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 371
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 234
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 626
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1094
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 48
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 10
+      }
+    ]
+  },
+  {
+    "Address": 2868098508193,
+    "Name": "HIP 112823",
+    "Contributions": [
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionSettlementReboot",
+        "Amount": 5
+      }
+    ]
+  },
+  {
+    "Address": 633406984906,
+    "Name": "HIP 113535",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 908284859082,
+    "Name": "HIP 116351",
+    "Contributions": [
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 903797000547,
+    "Name": "HIP 116360",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 525907003739,
+    "Name": "HIP 37844",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 67
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 132
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 203
+      }
+    ]
+  },
+  {
+    "Address": 16062237975969,
+    "Name": "Holvandalla",
+    "Contributions": [
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionSettlementReboot",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 3931941835474,
+    "Name": "Jawul",
+    "Contributions": [
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionSettlementReboot",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 5067121698209,
+    "Name": "Kaurukat",
+    "Contributions": [
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 70025995444,
+    "Name": "Kerb",
+    "Contributions": [
+      {
+        "Date": "2024-10-16",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 2558022161090,
+    "Name": "Khwal",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 56
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 106
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 227
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 469
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 501
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 25
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1888
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 13
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2715
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 90
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 15
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 5070880122241,
+    "Name": "Kurumanit",
+    "Contributions": [
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 10
+      }
+    ]
+  },
+  {
+    "Address": 11667681453433,
+    "Name": "Laumas",
+    "Contributions": [
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 16
+      }
+    ]
+  },
+  {
+    "Address": 3382655881922,
+    "Name": "Mahlina",
+    "Contributions": [
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 9468926633345,
+    "Name": "Mapon",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 449
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 859
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidRevenant",
+        "Amount": 55
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 519
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1391
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 9
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 12
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidRevenant",
+        "Amount": 229
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 839
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidRevenant",
+        "Amount": 6
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBanshee",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1255
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidRevenant",
+        "Amount": 55
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1775
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidRevenant",
+        "Amount": 68
+      }
+    ]
+  },
+  {
+    "Address": 2867830072737,
+    "Name": "Marindhs",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1498
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 80
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 24
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8151
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 789
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 262
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 21
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHydra",
+        "Amount": 7
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4846
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 527
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 164
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 13
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHydra",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 5353139620664,
+    "Name": "Ngolite",
+    "Contributions": [
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionSettlementReboot",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionSettlementReboot",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionSettlementReboot",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 4580356131171,
+    "Name": "Njana",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 9
+      }
+    ]
+  },
+  {
+    "Address": 22659307808153,
+    "Name": "Nu Guang",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 21
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 15
+      }
+    ]
+  },
+  {
+    "Address": 6131434918594,
+    "Name": "Nyani",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 14
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 13
+      }
+    ]
+  },
+  {
+    "Address": 18261261297057,
+    "Name": "Ongkarango",
+    "Contributions": [
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 1746
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionSettlementReboot",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 270
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionSettlementReboot",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 3595
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionSettlementReboot",
+        "Amount": 6
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 5945
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionSettlementReboot",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 5652
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionSettlementReboot",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 16898
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "OverwatchCAPI",
+        "Type": "SupplyDelivery",
+        "Amount": 1116
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionDelivery",
+        "Amount": 22
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionSettlementReboot",
+        "Amount": 30
+      }
+    ]
+  },
+  {
+    "Address": 13866704643449,
+    "Name": "Paitra",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 365
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 95
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1414
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1349
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1532
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 16
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 6
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHydra",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1991
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 121
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 15
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 23
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 3657533756098,
+    "Name": "Picenile",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 16
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 5856557011650,
+    "Name": "Qinganu",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 19
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 16
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 14
+      }
+    ]
+  },
+  {
+    "Address": 11663923029409,
+    "Name": "Sholintet",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 11
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHydra",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      }
+    ]
+  },
+  {
+    "Address": 4756978275010,
+    "Name": "Smolyadaker",
+    "Contributions": [
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 5067121763737,
+    "Name": "Snoqui",
+    "Contributions": [
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 3034167904611,
+    "Name": "Telebo",
+    "Contributions": [
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 5070611686793,
+    "Name": "Teuten",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Address": 5581142168274,
+    "Name": "Tsao Chun",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 752
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 92
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 8
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2729
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 378
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 125
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHydra",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 16161
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 1380
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 557
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 30
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHydra",
+        "Amount": 17
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 7
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 2868366943649,
+    "Name": "Tvasu",
+    "Contributions": [
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 1865936800091,
+    "Name": "Ulche",
+    "Contributions": [
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 12
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 6
+      }
+    ]
+  },
+  {
+    "Address": 2346973137243,
+    "Name": "Vocovii",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 114
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 134
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 29
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 18
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 26
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 107
+      }
+    ]
+  },
+  {
+    "Address": 3932411695810,
+    "Name": "Vucumatha",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 69
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 584
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 8
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 482
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 272
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 424
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 6
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 812
+      }
+    ]
+  },
+  {
+    "Address": 908687577786,
+    "Name": "Wogaiawong",
+    "Contributions": [
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionSettlementReboot",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Address": 7267755828657,
+    "Name": "Wolf 636",
+    "Contributions": [
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Address": 5306801197762,
+    "Name": "Col 285 Sector BA-P c6-19",
+    "Contributions": [
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 20
+      }
+    ]
+  },
+  {
+    "Address": 5070611621249,
+    "Name": "Col 285 Sector XT-F b12-2",
+    "Contributions": [
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "EvacuatioRefugee",
+        "Amount": 168
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionRefugeeEvacuation",
+        "Amount": 18
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidOrthrus",
+        "Amount": 7
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionRescue",
+        "Amount": 114
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionThargoidKill",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "EvacuationWounded",
+        "Amount": 580
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "EvacuatioRefugee",
+        "Amount": 2742
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionRefugeeEvacuation",
+        "Amount": 321
+      }
+    ]
+  },
+  {
+    "Address": 11663923094945,
+    "Name": "Pegasi Sector MN-S b4-5",
+    "Contributions": [
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 1225
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 4062
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "SupplyDelivery",
+        "Amount": 2070
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionDelivery",
+        "Amount": 43
+      }
+    ]
+  },
+  {
+    "Address": 7269903377793,
+    "Name": "Col 285 Sector WY-F b12-3",
+    "Contributions": [
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Address": 2449985227107,
+    "Name": "Pegasi Sector BQ-Y d71",
+    "Contributions": [
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionThargoidKill",
+        "Amount": 11
+      }
+    ]
+  },
+  {
+    "Address": 11667949888905,
+    "Name": "Col 285 Sector AF-E b13-5",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3766
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 5996
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 120
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 456
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 141
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 8
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHydra",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionRescue",
+        "Amount": 41
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionThargoidKill",
+        "Amount": 139
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 10
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "EvacuationWounded",
+        "Amount": 306
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "EvacuatioRefugee",
+        "Amount": 408
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionRefugeeEvacuation",
+        "Amount": 32
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 18649
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 12382
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 6966
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 827
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 349
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 40
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 11
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHydra",
+        "Amount": 36
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionRescue",
+        "Amount": 127
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionThargoidKill",
+        "Amount": 242
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 71
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "EvacuationWounded",
+        "Amount": 1017
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "EvacuatioRefugee",
+        "Amount": 2680
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionRefugeeEvacuation",
+        "Amount": 225
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3950
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 2238
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 1116
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 59
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 45
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHydra",
+        "Amount": 6
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionRescue",
+        "Amount": 23
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionThargoidKill",
+        "Amount": 62
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "EvacuationWounded",
+        "Amount": 184
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "EvacuatioRefugee",
+        "Amount": 297
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionRefugeeEvacuation",
+        "Amount": 23
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionThargoidKill",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionThargoidKill",
+        "Amount": 5
+      }
+    ]
+  },
+  {
+    "Address": 5070880187777,
+    "Name": "Col 285 Sector UD-G b12-2",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 9
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 40
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 38
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 15
+      }
+    ]
+  },
+  {
+    "Address": 3309045811555,
+    "Name": "Col 285 Sector OS-T d3-96",
+    "Contributions": [
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 3824374761835,
+    "Name": "Pegasi Sector FW-W d1-111",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 11105
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 927
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 477
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 54
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 27
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHydra",
+        "Amount": 111
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 218
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 637
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 35
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 30
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHydra",
+        "Amount": 6
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 17
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 16065727899009,
+    "Name": "Col 285 Sector XT-F b12-7",
+    "Contributions": [
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 6131367809722,
+    "Name": "Col 285 Sector WT-Q c5-22",
+    "Contributions": [
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 12
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 9
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 13867509949825,
+    "Name": "Col 285 Sector AU-F b12-6",
+    "Contributions": [
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 21
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 212
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 79
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 1458443260610,
+    "Name": "Col 285 Sector IG-O c6-5",
+    "Contributions": [
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 10
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 20
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidBiostorageCapsule",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScythe",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 1831577061731,
+    "Name": "HIP 36901",
+    "Contributions": [
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 3996240578915,
+    "Name": "Col 285 Sector OS-T d3-116",
+    "Contributions": [
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 16065996334465,
+    "Name": "Col 285 Sector YT-F b12-7",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 10
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 219
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 177
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 104
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 40
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 32
+      }
+    ]
+  },
+  {
+    "Address": 84120998586,
+    "Name": "HIP 40229",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 61
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 42
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 417
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 26
+      }
+    ]
+  },
+  {
+    "Address": 7265876583833,
+    "Name": "Pegasi Sector IH-U b3-3",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 84
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 6
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidBiostorageCapsule",
+        "Amount": 512
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 90
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 32
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 11
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidBiostorageCapsule",
+        "Amount": 1256
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 144
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidBiostorageCapsule",
+        "Amount": 470
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 685
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 55
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 12
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 8
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 14
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidBiostorageCapsule",
+        "Amount": 1324
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 195
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidBiostorageCapsule",
+        "Amount": 782
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 208
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 38
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 517
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 31
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidBiostorageCapsule",
+        "Amount": 293
+      }
+    ]
+  },
+  {
+    "Address": 5066853328281,
+    "Name": "Pegasi Sector IH-U b3-2",
+    "Contributions": [
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 5067121763745,
+    "Name": "Pegasi Sector NN-S b4-2",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 28
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 6
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 669075252633,
+    "Name": "HIP 113660",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 20460284552609,
+    "Name": "Pegasi Sector NN-S b4-9",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 13862946350497,
+    "Name": "Pegasi Sector MN-S b4-6",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 194
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 19
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 345
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 288
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 92
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 7
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 9
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 6130897982162,
+    "Name": "Pegasi Sector JH-V c2-22",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 6405775889106,
+    "Name": "Pegasi Sector JH-V c2-23",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 65
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 116
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 347
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 20
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2222
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 403
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 44
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 14
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 11
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 16
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 40
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "ProtectiveMembraneScrap",
+        "Amount": 5
+      }
+    ]
+  },
+  {
+    "Address": 5856020075218,
+    "Name": "Pegasi Sector JH-V c2-21",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 7
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 10
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 11663923094937,
+    "Name": "Pegasi Sector IH-U b3-5",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 9
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 7
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 12
+      }
+    ]
+  },
+  {
+    "Address": 13862946350489,
+    "Name": "Pegasi Sector IH-U b3-6",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 545
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 29
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 319
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2099
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 183
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 45
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 6
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHydra",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 10
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 368
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 44
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 14
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHydra",
+        "Amount": 10
+      }
+    ]
+  },
+  {
+    "Address": 16061969606041,
+    "Name": "Pegasi Sector IH-U b3-7",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 275
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 8
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 240
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2169
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 514
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 89
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 46
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 6
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHydra",
+        "Amount": 40
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 86
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1929
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 265
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 34
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 18
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 6
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 18
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      }
+    ]
+  },
+  {
+    "Address": 2867830072729,
+    "Name": "Pegasi Sector IH-U b3-1",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 26
+      }
+    ]
+  },
+  {
+    "Address": 7266145019289,
+    "Name": "Pegasi Sector JH-U b3-3",
+    "Contributions": [
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 9465168274841,
+    "Name": "Pegasi Sector JH-U b3-4",
+    "Contributions": [
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      }
+    ]
+  },
+  {
+    "Address": 11664191530393,
+    "Name": "Pegasi Sector JH-U b3-5",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 83584062154,
+    "Name": "HIP 113695",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 6
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 7270171747705,
+    "Name": "Col 285 Sector VN-H b11-3",
+    "Contributions": [
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 9
+      }
+    ]
+  },
+  {
+    "Address": 9465705473417,
+    "Name": "Cephei Sector BV-Y b4",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 7
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 7
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 27
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 6
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 23
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleOrthrus",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleGlaive",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleTitan",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "ProtectiveMembraneScrap",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidBiostorageCapsule",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScythe",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 10
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 11
+      }
+    ]
+  },
+  {
+    "Address": 13867241514369,
+    "Name": "Col 285 Sector ZT-F b12-6",
+    "Contributions": [
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 25
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Address": 2484412090715,
+    "Name": "Col 285 Sector KM-V d2-72",
+    "Contributions": [
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 37
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 66
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 145
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 376
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 39
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 5031923290818,
+    "Name": "Col 285 Sector BA-P c6-18",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 12
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidBiostorageCapsule",
+        "Amount": 626
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 19
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidBiostorageCapsule",
+        "Amount": 802
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 55
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidBiostorageCapsule",
+        "Amount": 884
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 31
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidBiostorageCapsule",
+        "Amount": 472
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 12
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidBiostorageCapsule",
+        "Amount": 62
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 9
+      }
+    ]
+  },
+  {
+    "Address": 5581679104706,
+    "Name": "Col 285 Sector BA-P c6-20",
+    "Contributions": [
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 31
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 70
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 27
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 17
+      }
+    ]
+  },
+  {
+    "Address": 79247165795,
+    "Name": "HIP 30377",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 9
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 13
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleGlaive",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleTitan",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "ProtectiveMembraneScrap",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidBiostorageCapsule",
+        "Amount": 20
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 12
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleGlaive",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScythe",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 48
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 23
+      }
+    ]
+  },
+  {
+    "Address": 4477276916067,
+    "Name": "Col 285 Sector OS-T d3-130",
+    "Contributions": [
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 5071148557697,
+    "Name": "Col 285 Sector XY-F b12-2",
+    "Contributions": [
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 6
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 10
+      }
+    ]
+  },
+  {
+    "Address": 673101981057,
+    "Name": "Col 285 Sector ZT-F b12-0",
+    "Contributions": [
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 9
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 12
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      }
+    ]
+  },
+  {
+    "Address": 5031923290810,
+    "Name": "Col 285 Sector XT-Q c5-18",
+    "Contributions": [
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 2872125236601,
+    "Name": "Col 285 Sector VN-H b11-1",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 715
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 369
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1586
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 91
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidOrthrus",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1792
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 137
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 12
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidOrthrus",
+        "Amount": 34
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidRevenant",
+        "Amount": 64
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBanshee",
+        "Amount": 14
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 422
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 172
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 379
+      }
+    ]
+  },
+  {
+    "Address": 5306801197754,
+    "Name": "Col 285 Sector XT-Q c5-19",
+    "Contributions": [
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 4207289602746,
+    "Name": "Col 285 Sector VY-Q c5-15",
+    "Contributions": [
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 16065996399993,
+    "Name": "Col 285 Sector SS-H b11-7",
+    "Contributions": [
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      }
+    ]
+  },
+  {
+    "Address": 2283144254138,
+    "Name": "Col 285 Sector VY-Q c5-8",
+    "Contributions": [
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      }
+    ]
+  },
+  {
+    "Address": 7270171813249,
+    "Name": "Col 285 Sector XY-F b12-3",
+    "Contributions": [
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      }
+    ]
+  },
+  {
+    "Address": 2872125236609,
+    "Name": "Col 285 Sector ZT-F b12-1",
+    "Contributions": [
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 1934656276835,
+    "Name": "19 Puppis",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 56
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 43
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 105
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 241
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 96
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 7
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 93
+      }
+    ]
+  },
+  {
+    "Address": 11667949823353,
+    "Name": "Col 285 Sector UN-H b11-5",
+    "Contributions": [
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 908754686658,
+    "Name": "Col 285 Sector BA-P c6-3",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 4482234585794,
+    "Name": "Col 285 Sector CA-P c6-16",
+    "Contributions": [
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 108
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 148
+      }
+    ]
+  },
+  {
+    "Address": 2869440685433,
+    "Name": "Arietis Sector QD-S b4-1",
+    "Contributions": [
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 2832900068034,
+    "Name": "Col 285 Sector ZE-P c6-10",
+    "Contributions": [
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 2871588431233,
+    "Name": "Col 285 Sector VY-F b12-1",
+    "Contributions": [
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 39
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 7269903377801,
+    "Name": "Col 285 Sector AF-E b13-3",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 15
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Address": 9468926567809,
+    "Name": "Col 285 Sector YT-F b12-4",
+    "Contributions": [
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 28
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 230
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 216
+      }
+    ]
+  },
+  {
+    "Address": 7269634942337,
+    "Name": "Col 285 Sector VY-F b12-3",
+    "Contributions": [
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      }
+    ]
+  },
+  {
+    "Address": 672833611145,
+    "Name": "Col 285 Sector AF-E b13-0",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 4207289602754,
+    "Name": "Col 285 Sector ZE-P c6-15",
+    "Contributions": [
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 9468926633337,
+    "Name": "Col 285 Sector SS-H b11-4",
+    "Contributions": [
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 3932478771898,
+    "Name": "Col 285 Sector YT-Q c5-14",
+    "Contributions": [
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 225
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 14
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 20
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 701
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 66
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 7
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 3515204241763,
+    "Name": "Col 285 Sector OS-T d3-102",
+    "Contributions": [
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 60
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 80
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 16
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 6
+      }
+    ]
+  },
+  {
+    "Address": 9468658197889,
+    "Name": "Col 285 Sector VY-F b12-4",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Address": 7270171747713,
+    "Name": "Col 285 Sector ZT-F b12-3",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 85
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 18
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidOrthrus",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBanshee",
+        "Amount": 8
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 117
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 12
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidRevenant",
+        "Amount": 11
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBanshee",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 497
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 11
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2785
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 197
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 21
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidOrthrus",
+        "Amount": 43
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidRevenant",
+        "Amount": 46
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBanshee",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidImpureSpireMineral",
+        "Amount": 7
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4224
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 739
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 63
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidOrthrus",
+        "Amount": 153
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidProbeCollection",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidRevenant",
+        "Amount": 241
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBanshee",
+        "Amount": 64
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidImpureSpireMineral",
+        "Amount": 7
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2299
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 284
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 9
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidOrthrus",
+        "Amount": 37
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidRevenant",
+        "Amount": 141
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBanshee",
+        "Amount": 25
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidImpureSpireMineral",
+        "Amount": 5
+      }
+    ]
+  },
+  {
+    "Address": 7269903312249,
+    "Name": "Col 285 Sector UN-H b11-3",
+    "Contributions": [
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 2871856801161,
+    "Name": "Col 285 Sector CA-E b13-1",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 6
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 15
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 9
+      }
+    ]
+  },
+  {
+    "Address": 11667949888897,
+    "Name": "Col 285 Sector WY-F b12-5",
+    "Contributions": [
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 24
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 5070880056705,
+    "Name": "Col 285 Sector YT-F b12-2",
+    "Contributions": [
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 208
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 254
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 295
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 22
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 10
+      }
+    ]
+  },
+  {
+    "Address": 2871856801153,
+    "Name": "Col 285 Sector YT-F b12-1",
+    "Contributions": [
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 16
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 5071148426625,
+    "Name": "Col 285 Sector BP-F b12-2",
+    "Contributions": [
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 84120965818,
+    "Name": "HIP 35633",
+    "Contributions": [
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Address": 457187527011,
+    "Name": "HIP 38718",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 16062238041497,
+    "Name": "Pegasi Sector JH-U b3-7",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 35
+      },
+      {
+        "Date": "2024-10-10",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 69
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 230
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 33
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 39
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2980
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 279
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 41
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 24
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 14
+      }
+    ]
+  },
+  {
+    "Address": 9469195003273,
+    "Name": "Col 285 Sector DA-E b13-4",
+    "Contributions": [
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 2872125171073,
+    "Name": "Col 285 Sector BP-F b12-1",
+    "Contributions": [
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 5031923323578,
+    "Name": "Col 285 Sector VY-Q c5-18",
+    "Contributions": [
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 9464899773849,
+    "Name": "Pegasi Sector KC-U b3-4",
+    "Contributions": [
+      {
+        "Date": "2024-10-16",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidImpureSpireMineral",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 11668218324345,
+    "Name": "Col 285 Sector TS-H b11-5",
+    "Contributions": [
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 6131434951354,
+    "Name": "Col 285 Sector VY-Q c5-22",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 7
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 7
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 164
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 58
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 2008266347202,
+    "Name": "Col 285 Sector ZE-P c6-7",
+    "Contributions": [
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 6
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      }
+    ]
+  },
+  {
+    "Address": 3755722410331,
+    "Name": "Col 285 Sector KM-V d2-109",
+    "Contributions": [
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 36
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 18
+      }
+    ]
+  },
+  {
+    "Address": 3618283456867,
+    "Name": "Col 285 Sector OS-T d3-105",
+    "Contributions": [
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 71
+      }
+    ]
+  },
+  {
+    "Address": 4482167476930,
+    "Name": "Col 285 Sector BA-P c6-16",
+    "Contributions": [
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 7
+      }
+    ]
+  },
+  {
+    "Address": 13866973078905,
+    "Name": "Col 285 Sector UN-H b11-6",
+    "Contributions": [
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      }
+    ]
+  },
+  {
+    "Address": 9468926502265,
+    "Name": "Col 285 Sector WI-H b11-4",
+    "Contributions": [
+      {
+        "Date": "2024-10-11",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 2872125302153,
+    "Name": "Col 285 Sector BF-E b13-1",
+    "Contributions": [
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      }
+    ]
+  },
+  {
+    "Address": 7270440183169,
+    "Name": "Col 285 Sector AU-F b12-3",
+    "Contributions": [
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 11668218193273,
+    "Name": "Col 285 Sector XI-H b11-5",
+    "Contributions": [
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 10
+      }
+    ]
+  },
+  {
+    "Address": 11667681387897,
+    "Name": "Col 285 Sector TN-H b11-5",
+    "Contributions": [
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 21
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      }
+    ]
+  },
+  {
+    "Address": 3652643195235,
+    "Name": "Col 285 Sector OS-T d3-106",
+    "Contributions": [
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 6406312858298,
+    "Name": "Col 285 Sector VY-Q c5-23",
+    "Contributions": [
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 672833611137,
+    "Name": "Col 285 Sector WY-F b12-0",
+    "Contributions": [
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 7
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 10
+      }
+    ]
+  },
+  {
+    "Address": 672833545601,
+    "Name": "Col 285 Sector YT-F b12-0",
+    "Contributions": [
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 14
+      }
+    ]
+  },
+  {
+    "Address": 672833611129,
+    "Name": "Col 285 Sector SS-H b11-0",
+    "Contributions": [
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 13867241514361,
+    "Name": "Col 285 Sector VN-H b11-6",
+    "Contributions": [
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 7
+      }
+    ]
+  },
+  {
+    "Address": 11668218258817,
+    "Name": "Col 285 Sector ZT-F b12-5",
+    "Contributions": [
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 32
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 10
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 10
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Address": 16066264769921,
+    "Name": "Col 285 Sector ZT-F b12-7",
+    "Contributions": [
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 1831577061723,
+    "Name": "Col 285 Sector KM-V d2-53",
+    "Contributions": [
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 21
+      }
+    ]
+  },
+  {
+    "Address": 1733388440258,
+    "Name": "Col 285 Sector ZE-P c6-6",
+    "Contributions": [
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 6131434918586,
+    "Name": "Col 285 Sector XT-Q c5-22",
+    "Contributions": [
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 26
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 19
+      }
+    ]
+  },
+  {
+    "Address": 5306801230522,
+    "Name": "Col 285 Sector VY-Q c5-19",
+    "Contributions": [
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      }
+    ]
+  },
+  {
+    "Address": 9469463438721,
+    "Name": "Col 285 Sector AU-F b12-4",
+    "Contributions": [
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 5070880122233,
+    "Name": "Col 285 Sector SS-H b11-2",
+    "Contributions": [
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 13
+      }
+    ]
+  },
+  {
+    "Address": 7269903377785,
+    "Name": "Col 285 Sector SS-H b11-3",
+    "Contributions": [
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Address": 3657533788866,
+    "Name": "Col 285 Sector ZE-P c6-13",
+    "Contributions": [
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 6
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 9469195068785,
+    "Name": "Col 285 Sector PM-J b10-4",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 19
+      },
+      {
+        "Date": "2024-10-11",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      },
+      {
+        "Date": "2024-10-12",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 47
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 41
+      }
+    ]
+  },
+  {
+    "Address": 5581679137474,
+    "Name": "Col 285 Sector ZE-P c6-20",
+    "Contributions": [
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 6
+      }
+    ]
+  },
+  {
+    "Address": 673101981049,
+    "Name": "Col 285 Sector VN-H b11-0",
+    "Contributions": [
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      }
+    ]
+  },
+  {
+    "Address": 16066264769913,
+    "Name": "Col 285 Sector VN-H b11-7",
+    "Contributions": [
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 4202399009115,
+    "Name": "Col 285 Sector KM-V d2-122",
+    "Contributions": [
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 41
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 7
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-15",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 54
+      }
+    ]
+  },
+  {
+    "Address": 1075662817627,
+    "Name": "HIP 39409",
+    "Contributions": [
+      {
+        "Date": "2024-10-10",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 26
+      },
+      {
+        "Date": "2024-10-13",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 80
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 28
+      },
+      {
+        "Date": "2024-10-14",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 673370416513,
+    "Name": "Col 285 Sector AU-F b12-0",
+    "Contributions": [
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 4757112525506,
+    "Name": "Col 285 Sector AF-P c6-17",
+    "Contributions": [
+      {
+        "Date": "2024-10-15",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-10-16",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      }
+    ]
+  }
+]

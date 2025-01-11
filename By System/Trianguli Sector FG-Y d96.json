@@ -1,0 +1,79 @@
+{
+  "Address": 3309029017955,
+  "Name": "Trianguli Sector FG-Y d96",
+  "Population": 0,
+  "LowestRecordedPopulation": 0,
+  "X": 78.000000,
+  "Y": -81.937500,
+  "Z": -103.718750,
+  "States": [
+    {
+      "State": "None",
+      "Start": {
+        "CycleNumber": 1,
+        "Start": "2022-12-01T07:00:00+00:00",
+        "End": "2022-12-08T07:00:00+00:00"
+      },
+      "End": {
+        "CycleNumber": 7,
+        "Start": "2023-01-12T07:00:00+00:00",
+        "End": "2023-01-19T07:00:00+00:00"
+      },
+      "Titan": {
+        "Name": "Taranis"
+      },
+      "Progress": []
+    },
+    {
+      "State": "Alert",
+      "Start": {
+        "CycleNumber": 8,
+        "Start": "2023-01-19T07:00:00+00:00",
+        "End": "2023-01-26T07:00:00+00:00"
+      },
+      "End": {
+        "CycleNumber": 8,
+        "Start": "2023-01-19T07:00:00+00:00",
+        "End": "2023-01-26T07:00:00+00:00"
+      },
+      "Titan": {
+        "Name": "Taranis"
+      },
+      "Progress": [
+        {
+          "Progress": 0.000000,
+          "Reported": "2023-01-19T10:09:45.70516+00:00",
+          "Updated": "2023-01-19T10:09:45.70516+00:00"
+        }
+      ]
+    },
+    {
+      "State": "Controlled",
+      "Start": {
+        "CycleNumber": 9,
+        "Start": "2023-01-26T07:00:00+00:00",
+        "End": "2023-02-02T07:00:00+00:00"
+      },
+      "End": {
+        "CycleNumber": 32,
+        "Start": "2023-07-06T07:00:00+00:00",
+        "End": "2023-07-13T07:00:00+00:00"
+      },
+      "Titan": {
+        "Name": "Taranis"
+      },
+      "Progress": [
+        {
+          "Progress": 0.000000,
+          "Reported": "2023-03-26T12:13:30.572178+00:00",
+          "Updated": "2023-07-08T23:34:37+00:00"
+        },
+        {
+          "Progress": 1.000000,
+          "Reported": "2023-07-09T07:35:53.198853+00:00",
+          "Updated": "2023-07-09T07:35:53.198853+00:00"
+        }
+      ]
+    }
+  ]
+}

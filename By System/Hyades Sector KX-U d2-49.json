@@ -1,0 +1,56 @@
+{
+  "Address": 1694087743843,
+  "Name": "Hyades Sector KX-U d2-49",
+  "Population": 0,
+  "LowestRecordedPopulation": 0,
+  "X": -92.312500,
+  "Y": -137.968750,
+  "Z": -75.281250,
+  "States": [
+    {
+      "State": "None",
+      "Start": {
+        "CycleNumber": 21,
+        "Start": "2023-04-20T07:00:00+00:00",
+        "End": "2023-04-27T07:00:00+00:00"
+      },
+      "End": {
+        "CycleNumber": 29,
+        "Start": "2023-06-15T07:00:00+00:00",
+        "End": "2023-06-22T07:00:00+00:00"
+      },
+      "Titan": {
+        "Name": "Leigong"
+      },
+      "Progress": []
+    },
+    {
+      "State": "Alert",
+      "Start": {
+        "CycleNumber": 30,
+        "Start": "2023-06-22T07:00:00+00:00",
+        "End": "2023-06-29T07:00:00+00:00"
+      },
+      "End": {
+        "CycleNumber": 30,
+        "Start": "2023-06-22T07:00:00+00:00",
+        "End": "2023-06-29T07:00:00+00:00"
+      },
+      "Titan": {
+        "Name": "Leigong"
+      },
+      "Progress": [
+        {
+          "Progress": 0.000000,
+          "Reported": "2023-06-22T08:12:03.42698+00:00",
+          "Updated": "2023-06-24T05:31:09.557517+00:00"
+        },
+        {
+          "Progress": 1.000000,
+          "Reported": "2023-06-24T06:31:03.860702+00:00",
+          "Updated": "2023-06-24T06:31:03.860702+00:00"
+        }
+      ]
+    }
+  ]
+}

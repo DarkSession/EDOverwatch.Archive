@@ -1,0 +1,8198 @@
+[
+  {
+    "Address": 3107643658938,
+    "Name": "Awara",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 13
+      }
+    ]
+  },
+  {
+    "Address": 594676730147,
+    "Name": "Shenve",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 154
+      }
+    ]
+  },
+  {
+    "Address": 670954235241,
+    "Name": "Gaezatorix",
+    "Contributions": [
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 6681123623626,
+    "Name": "Deciat",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 31
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 9
+      }
+    ]
+  },
+  {
+    "Address": 2870514361721,
+    "Name": "Jamundi",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 7
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      }
+    ]
+  },
+  {
+    "Address": 5070074422649,
+    "Name": "Modigi",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 88
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 8
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 5
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 7
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 10
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 9
+      }
+    ]
+  },
+  {
+    "Address": 5070074488193,
+    "Name": "Imeut",
+    "Contributions": [
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 21
+      }
+    ]
+  },
+  {
+    "Address": 670685865321,
+    "Name": "Raidal",
+    "Contributions": [
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 7267218498945,
+    "Name": "Obassi Osaw",
+    "Contributions": [
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 6
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 9
+      }
+    ]
+  },
+  {
+    "Address": 670685799785,
+    "Name": "Obamumbo",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 6
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 6
+      }
+    ]
+  },
+  {
+    "Address": 4207423689370,
+    "Name": "Synuefe ZZ-X c17-15",
+    "Contributions": [
+      {
+        "Date": "2023-08-30",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 7
+      }
+    ]
+  },
+  {
+    "Address": 3382521565882,
+    "Name": "Ebisu",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 21
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 1461
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 26
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 2149
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 22
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 1440
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 13
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 499
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 40
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 808
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 70
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 2010
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "Rescue",
+        "Amount": 68
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionRescue",
+        "Amount": 20
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 260
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 3174
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 6534
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "OverwatchCAPI",
+        "Type": "Rescue",
+        "Amount": 72
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 63
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidOrthrus",
+        "Amount": 6
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionRescue",
+        "Amount": 20
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionPassengerEvacuation",
+        "Amount": 46
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidProbeCollection",
+        "Amount": 3
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 8
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 402
+      }
+    ]
+  },
+  {
+    "Address": 2037718698331,
+    "Name": "HIP 23716",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 180
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 1973
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 233
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 2971
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "Rescue",
+        "Amount": 72
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionRescue",
+        "Amount": 20
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionThargoidKill",
+        "Amount": 9
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 11666875819385,
+    "Name": "Trianguli Sector FL-Y b5",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 4
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 7
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 5
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 216054883492,
+    "Name": "Asterope",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 500
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 368
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 175
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 185
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 318
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 215
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 3
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHydra",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 229
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 4
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 3
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Address": 147949865307,
+    "Name": "HIP 25679",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 28
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 19
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 77
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 74
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 37
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 123
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 14
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 233
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 22
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 118
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 8
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 114
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 98
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 63
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 706
+      }
+    ]
+  },
+  {
+    "Address": 2871051232625,
+    "Name": "Ixbalan",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 30
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 15
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 58
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 45
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 35
+      }
+    ]
+  },
+  {
+    "Address": 4207155286714,
+    "Name": "Trianguli Sector CA-A c15",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 52
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 34
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 188
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 74
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 67
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 358
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 227
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 208
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 1342
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 118
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 114
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 799
+      }
+    ]
+  },
+  {
+    "Address": 1659744799067,
+    "Name": "HIP 20567",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 7
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 5031789007554,
+    "Name": "Trianguli Sector GG-Y c18",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 9468120933753,
+    "Name": "Hyades Sector HW-M b7-4",
+    "Contributions": [
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 2037685127523,
+    "Name": "Pathamon",
+    "Contributions": [
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 1281804454235,
+    "Name": "HIP 25670",
+    "Contributions": [
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Address": 1831577045347,
+    "Name": "Nihal",
+    "Contributions": [
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 9467852563833,
+    "Name": "Trianguli Sector FL-Y b4",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 66
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 58
+      }
+    ]
+  },
+  {
+    "Address": 9154823426746,
+    "Name": "77 Theta-1 Tauri",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 46
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 138
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 49
+      }
+    ]
+  },
+  {
+    "Address": 7269097743745,
+    "Name": "Matshiru",
+    "Contributions": [
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 2931071895899,
+    "Name": "Trianguli Sector BA-A d85",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 13
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      }
+    ]
+  },
+  {
+    "Address": 672027977089,
+    "Name": "Vukurbeh",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 1900262951243,
+    "Name": "Delphi",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 6131300635322,
+    "Name": "Trianguli Sector CA-A c22",
+    "Contributions": [
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 3382387380914,
+    "Name": "HIP 20679",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 259
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 16
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 100
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 37
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 355
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1103
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1011
+      }
+    ]
+  },
+  {
+    "Address": 669880296833,
+    "Name": "Arietis Sector AQ-P b5-0",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 27
+      }
+    ]
+  },
+  {
+    "Address": 1213084993899,
+    "Name": "HR 4734",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 2870782862705,
+    "Name": "Trianguli Sector ZJ-A b1",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 3932277379770,
+    "Name": "Trianguli Sector CA-A c14",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 96
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 44
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 443
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 108
+      }
+    ]
+  },
+  {
+    "Address": 7269097743737,
+    "Name": "Hyades Sector FB-N b7-3",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 354091518315,
+    "Name": "Laedla",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 671759541625,
+    "Name": "Hyades Sector EB-N b7-0",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 112979862700,
+    "Name": "63 Eridani",
+    "Contributions": [
+      {
+        "Date": "2023-08-27",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 3238296097059,
+    "Name": "Colonia",
+    "Contributions": [
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 9467047257441,
+    "Name": "Arietis Sector IG-X b1-4",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 9
+      }
+    ]
+  },
+  {
+    "Address": 2871319733625,
+    "Name": "Hyades Sector EG-N b7-1",
+    "Contributions": [
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 7
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 6
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 20
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 29
+      }
+    ]
+  },
+  {
+    "Address": 3686969362779,
+    "Name": "70 Tauri",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 120
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 90
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 590
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 364
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 307
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 2285
+      }
+    ]
+  },
+  {
+    "Address": 835127855451,
+    "Name": "HIP 23816",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 141
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 269
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 30
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 22
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 212
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 6
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 3
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 56
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 165
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 11
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 32
+      }
+    ]
+  },
+  {
+    "Address": 11667144254833,
+    "Name": "Senocidi",
+    "Contributions": [
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 6
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 672027911545,
+    "Name": "Hyades Sector HW-M b7-0",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 27
+      }
+    ]
+  },
+  {
+    "Address": 1900279744859,
+    "Name": "Concordia",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 20
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Address": 633742496442,
+    "Name": "HR 1737",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 7
+      }
+    ]
+  },
+  {
+    "Address": 7230946480842,
+    "Name": "Vasupari",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 156
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 190
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 7
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 1900296538467,
+    "Name": "HR 3048",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 9
+      }
+    ]
+  },
+  {
+    "Address": 3652609624411,
+    "Name": "HIP 20577",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 18
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 6
+      }
+    ]
+  },
+  {
+    "Address": 3657198113474,
+    "Name": "Patollu",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 4
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 143
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 44
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 83
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 83
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 1667
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 127
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 80
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 1768
+      }
+    ]
+  },
+  {
+    "Address": 1183498343098,
+    "Name": "Wolf 1458",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 5031520539330,
+    "Name": "Arietis Sector MX-U c2-18",
+    "Contributions": [
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 717
+      }
+    ]
+  },
+  {
+    "Address": 1247427938651,
+    "Name": "HIP 20056",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 3240292747619,
+    "Name": "Arietis Sector KM-W d1-94",
+    "Contributions": [
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 6
+      }
+    ]
+  },
+  {
+    "Address": 672027977073,
+    "Name": "Gandje",
+    "Contributions": [
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 9468121064817,
+    "Name": "Ge",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 1144348723547,
+    "Name": "HIP 19796",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 9
+      }
+    ]
+  },
+  {
+    "Address": 2007997813434,
+    "Name": "HIP 20616",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 12
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 2832899969746,
+    "Name": "Alina",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 4207021101754,
+    "Name": "HIP 20527",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 224644818084,
+    "Name": "Merope",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 18
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 20
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 12
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      }
+    ]
+  },
+  {
+    "Address": 11667144254841,
+    "Name": "Hupang",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 25
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 47
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 36
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 20
+      }
+    ]
+  },
+  {
+    "Address": 198879208620,
+    "Name": "78 Theta-2 Tauri",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 86
+      }
+    ]
+  },
+  {
+    "Address": 1865903229275,
+    "Name": "HIP 20899",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 7
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 2869171987841,
+    "Name": "Jementi",
+    "Contributions": [
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 1458510435018,
+    "Name": "Muruidooges",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 102
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 47
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 219
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionThargoidKill",
+        "Amount": 5
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 106
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 1583
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 1634
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionThargoidKill",
+        "Amount": 35
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 176
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 1778
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 19
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionThargoidKill",
+        "Amount": 9
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 280
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 2088
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 14
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 240
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 955
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 5
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionThargoidKill",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 160
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 2890
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionThargoidKill",
+        "Amount": 35
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 37
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 272
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 1107
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 14
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionThargoidKill",
+        "Amount": 4
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 61
+      }
+    ]
+  },
+  {
+    "Address": 27072119940,
+    "Name": "California Sector BA-A e6",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 36
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 7
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 7
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 9465973319049,
+    "Name": "Hyades Sector LY-I b9-4",
+    "Contributions": [
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 26
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 42
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 371
+      }
+    ]
+  },
+  {
+    "Address": 13866167510393,
+    "Name": "Hyades Sector FB-N b7-6",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Address": 13863483549065,
+    "Name": "Cephei Sector AV-Y b6",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 3583890147675,
+    "Name": "Hyadum II",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 51
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 51
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 304
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 66
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 66
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 428
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 103
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 103
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 692
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 24
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 20
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 116
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 9466510452089,
+    "Name": "Ebor",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 3034151111003,
+    "Name": "Hyades Sector GW-W d1-88",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 2741931033753,
+    "Name": "Tenjin",
+    "Contributions": [
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 1419209836875,
+    "Name": "Pleiades Sector HR-W d1-41",
+    "Contributions": [
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 18
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 12
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 2518755035483,
+    "Name": "Njorog",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 30
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 615
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 15
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 1681
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionPassengerEvacuation",
+        "Amount": 85
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 104
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 2886
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 2223
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "Rescue",
+        "Amount": 75
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionRescue",
+        "Amount": 20
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionPassengerEvacuation",
+        "Amount": 61
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 246
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 3344
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 333
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 455
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 53
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidOrthrus",
+        "Amount": 3
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 478
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 143
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 684
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 70
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidOrthrus",
+        "Amount": 3
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionPassengerEvacuation",
+        "Amount": 38
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 1043
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 6
+      }
+    ]
+  },
+  {
+    "Address": 672028042617,
+    "Name": "Trianguli Sector EQ-Y b0",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 19
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 19
+      }
+    ]
+  },
+  {
+    "Address": 7268829636025,
+    "Name": "Chuelchs",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 220349850788,
+    "Name": "Sterope II",
+    "Contributions": [
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 271889458340,
+    "Name": "HR 1183",
+    "Contributions": [
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Address": 1213068200283,
+    "Name": "HIP 20019",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 185
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 2700
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 18
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionPassengerEvacuation",
+        "Amount": 36
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 65
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 398
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 2738
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 28
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidOrthrus",
+        "Amount": 3
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionThargoidKill",
+        "Amount": 4
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionPassengerEvacuation",
+        "Amount": 68
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionThargoidControlledSettlementReboot",
+        "Amount": 3
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 338
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 3462
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 5
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionThargoidKill",
+        "Amount": 13
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionPassengerEvacuation",
+        "Amount": 42
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 3
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 259004556452,
+    "Name": "Pleione",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 5367098264272,
+    "Name": "Lei Hsini",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      }
+    ]
+  },
+  {
+    "Address": 1797183752539,
+    "Name": "HIP 20826",
+    "Contributions": [
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      }
+    ]
+  },
+  {
+    "Address": 2037701921115,
+    "Name": "HIP 21112",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Address": 177404372140,
+    "Name": "65 Kappa Tauri",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 46
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 98
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 9
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 82
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 40
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 324
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 181
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 62
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidOrthrus",
+        "Amount": 4
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionThargoidKill",
+        "Amount": 4
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 461
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 89
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 1040
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 2289
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 63
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 1110
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 144
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 534
+      }
+    ]
+  },
+  {
+    "Address": 669611861281,
+    "Name": "Pleiades Sector MI-S b4-0",
+    "Contributions": [
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 190289274028,
+    "Name": "69 Upsilon Tauri",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      }
+    ]
+  },
+  {
+    "Address": 3790048577883,
+    "Name": "HR 1403",
+    "Contributions": [
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      }
+    ]
+  },
+  {
+    "Address": 2869171922313,
+    "Name": "Hyades Sector OT-I b9-1",
+    "Contributions": [
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 19
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 25
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 379
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 22
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 22
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 134
+      }
+    ]
+  },
+  {
+    "Address": 233238946988,
+    "Name": "92 Sigma-2 Tauri",
+    "Contributions": [
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 131
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 131
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 892
+      }
+    ]
+  },
+  {
+    "Address": 8216113749,
+    "Name": "Maia",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Address": 3382655783626,
+    "Name": "Vogulu",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Address": 4482167411402,
+    "Name": "Ahol",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 14
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 2871051167097,
+    "Name": "Hyades Sector HW-M b7-1",
+    "Contributions": [
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 4756642632386,
+    "Name": "Arietis Sector MX-U c2-17",
+    "Contributions": [
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 25
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 25
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 924
+      }
+    ]
+  },
+  {
+    "Address": 422827788643,
+    "Name": "HIP 38235",
+    "Contributions": [
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 16
+      }
+    ]
+  },
+  {
+    "Address": 594609686891,
+    "Name": "Calhuacan",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 2869709055337,
+    "Name": "Kagutsuchi",
+    "Contributions": [
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 908486218418,
+    "Name": "HIP 21261",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 684
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidRevenant",
+        "Amount": 44
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 782
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidRevenant",
+        "Amount": 73
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 664
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1514
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidRevenant",
+        "Amount": 72
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 234
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 230
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 605
+      }
+    ]
+  },
+  {
+    "Address": 319715002691,
+    "Name": "HIP 22460",
+    "Contributions": [
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 1762824014171,
+    "Name": "HIP 20815",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 98
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 98
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 599
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 44
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 44
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 298
+      }
+    ]
+  },
+  {
+    "Address": 2869977490801,
+    "Name": "Hyades Sector XU-O b6-1",
+    "Contributions": [
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 37
+      }
+    ]
+  },
+  {
+    "Address": 11664996574601,
+    "Name": "Hyades Sector LY-I b9-5",
+    "Contributions": [
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 9
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 9
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 271
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 10
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 10
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 338
+      }
+    ]
+  },
+  {
+    "Address": 3171573287259,
+    "Name": "HIP 19157",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 237529719972,
+    "Name": "HIP 17692",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 1419260184931,
+    "Name": "HIP 30846",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 11
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 95799993516,
+    "Name": "79 b Tauri",
+    "Contributions": [
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 3412091455835,
+    "Name": "55 Tauri",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 124
+      }
+    ]
+  },
+  {
+    "Address": 3657265287866,
+    "Name": "HIP 20485",
+    "Contributions": [
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      }
+    ]
+  },
+  {
+    "Address": 670954300785,
+    "Name": "HIP 20605",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 24
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 15
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 101
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 18
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 49
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 143
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 72
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 444
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 40
+      }
+    ]
+  },
+  {
+    "Address": 2346939566427,
+    "Name": "Ross 378",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 32
+      }
+    ]
+  },
+  {
+    "Address": 560216410467,
+    "Name": "HIP 8525",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 76
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 177
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 37
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 183
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidRevenant",
+        "Amount": 6
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 113
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 122
+      }
+    ]
+  },
+  {
+    "Address": 422827788635,
+    "Name": "HIP 37520",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 2007863694018,
+    "Name": "HIP 7338",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 83
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 37
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 816
+      }
+    ]
+  },
+  {
+    "Address": 3240275970403,
+    "Name": "Hyades Sector KX-U d2-94",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 17
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 17
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 357
+      }
+    ]
+  },
+  {
+    "Address": 198875014308,
+    "Name": "Celaeno",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 9
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 32
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 50
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 46
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 25
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 24
+      }
+    ]
+  },
+  {
+    "Address": 211764110508,
+    "Name": "86 Rho Tauri",
+    "Contributions": [
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 3446451194203,
+    "Name": "57 h Tauri",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 19
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 16
+      }
+    ]
+  },
+  {
+    "Address": 3932143194810,
+    "Name": "HIP 20492",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 57
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 228
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 18
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 4
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionPassengerEvacuation",
+        "Amount": 14
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionThargoidControlledSettlementReboot",
+        "Amount": 3
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 89
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 930
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 344
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 113
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 2133
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 72
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 240
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 4028
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 90
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "OverwatchCAPI",
+        "Type": "Rescue",
+        "Amount": 41
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 15
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidOrthrus",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionRescue",
+        "Amount": 12
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionThargoidControlledSettlementReboot",
+        "Amount": 5
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 85
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 1989
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 18
+      }
+    ]
+  },
+  {
+    "Address": 3480810932571,
+    "Name": "HR 1358",
+    "Contributions": [
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 117
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 42
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 3961847269723,
+    "Name": "HIP 20948",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 5
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 7679242837,
+    "Name": "Taygeta",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 11666070447465,
+    "Name": "Arietis Sector OH-V b2-5",
+    "Contributions": [
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 86
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 200
+      }
+    ]
+  },
+  {
+    "Address": 1178742016355,
+    "Name": "HIP 29596",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 27
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 36
+      }
+    ]
+  },
+  {
+    "Address": 3657265287858,
+    "Name": "HIP 21946",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 630
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 231
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 1496
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 382
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 93
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 603
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 121
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 181
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 167
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 2007863562898,
+    "Name": "Pleiades Sector IH-V c2-7",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 23
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 13
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 3996207008091,
+    "Name": "HIP 21008",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 584
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 347
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 452
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 202
+      }
+    ]
+  },
+  {
+    "Address": 2558424453698,
+    "Name": "Haki",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 39
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 44
+      }
+    ]
+  },
+  {
+    "Address": 5368172006104,
+    "Name": "Hyades Sector JD-G a12-0",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      }
+    ]
+  },
+  {
+    "Address": 2282674393810,
+    "Name": "Samnienas",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 1774711381,
+    "Name": "HR 1185",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 1178708461915,
+    "Name": "HIP 19870",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 6
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 6
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 9
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidRevenant",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 4481831932626,
+    "Name": "Vetr",
+    "Contributions": [
+      {
+        "Date": "2023-08-30",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 13863751918993,
+    "Name": "Labed",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      }
+    ]
+  },
+  {
+    "Address": 9466778821993,
+    "Name": "Arietis Sector LM-V b2-4",
+    "Contributions": [
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 14
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 14
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 108
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 6
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 72
+      }
+    ]
+  },
+  {
+    "Address": 254709589156,
+    "Name": "Atlas",
+    "Contributions": [
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 2557686518450,
+    "Name": "Arietis Sector DQ-Y c9",
+    "Contributions": [
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 7
+      }
+    ]
+  },
+  {
+    "Address": 2868903486857,
+    "Name": "Hyades Sector NT-I b9-1",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 26
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 40
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 444
+      }
+    ]
+  },
+  {
+    "Address": 181699339436,
+    "Name": "67 Tauri",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 2868635706761,
+    "Name": "Akbakara",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 121
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 221
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 50
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      }
+    ]
+  },
+  {
+    "Address": 9465168209313,
+    "Name": "Balak",
+    "Contributions": [
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 4757045318346,
+    "Name": "Bi Dhorora",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionThargoidKill",
+        "Amount": 4
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 9
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 6
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 6
+      }
+    ]
+  },
+  {
+    "Address": 3858734500203,
+    "Name": "Chinas",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 176
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 77
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 81
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 108
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 219
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 20
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 225
+      }
+    ]
+  },
+  {
+    "Address": 5031453561538,
+    "Name": "Daruwach",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 133
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 63
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 7
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 4
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 6956068573898,
+    "Name": "Fotlandjera",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 13
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 23
+      }
+    ]
+  },
+  {
+    "Address": 766374824299,
+    "Name": "HIP 113076",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 21
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 12
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 12
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 51
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 10
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 9
+      }
+    ]
+  },
+  {
+    "Address": 633406984906,
+    "Name": "HIP 113535",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 65
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 23
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 40
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 20
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 89
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 15
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 5
+      }
+    ]
+  },
+  {
+    "Address": 903797000547,
+    "Name": "HIP 116360",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 9
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 9
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 108
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 31
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 35
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 1030
+      }
+    ]
+  },
+  {
+    "Address": 2282741600962,
+    "Name": "HIP 13179",
+    "Contributions": [
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 164
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 45
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 94
+      }
+    ]
+  },
+  {
+    "Address": 560266709347,
+    "Name": "HIP 18857",
+    "Contributions": [
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 628986186083,
+    "Name": "HIP 19091",
+    "Contributions": [
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 13
+      }
+    ]
+  },
+  {
+    "Address": 2484412057955,
+    "Name": "HIP 19198",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 546
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 215
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 525
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 360
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 561
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 385
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 422
+      }
+    ]
+  },
+  {
+    "Address": 1728464275803,
+    "Name": "HIP 20741",
+    "Contributions": [
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 2518738258267,
+    "Name": "HIP 22496",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 436
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 242
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 416
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 469
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 134
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 271
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 30
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 207
+      }
+    ]
+  },
+  {
+    "Address": 1006893009251,
+    "Name": "HIP 24329",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 1316180969827,
+    "Name": "HIP 30502",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 93
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 75
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 44
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 21
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 32
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 180
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 318
+      }
+    ]
+  },
+  {
+    "Address": 16062237975969,
+    "Name": "Holvandalla",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 84
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 4581
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 1620
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 59
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 3861
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 1179
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 125
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 1448
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 774
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionPassengerEvacuation",
+        "Amount": 8
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 144
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 1469
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionPassengerEvacuation",
+        "Amount": 15
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 123
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 3017
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 2034
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionPassengerEvacuation",
+        "Amount": 34
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 98
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 651
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionPassengerEvacuation",
+        "Amount": 19
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 120
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 2996
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 261
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionPassengerEvacuation",
+        "Amount": 51
+      }
+    ]
+  },
+  {
+    "Address": 57149482164,
+    "Name": "HR 2204",
+    "Contributions": [
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 848
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 786
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 5856087184082,
+    "Name": "Iduni",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 48
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 22
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 46
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 75
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 110
+      }
+    ]
+  },
+  {
+    "Address": 2283144123090,
+    "Name": "Itzam Crua",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 10
+      }
+    ]
+  },
+  {
+    "Address": 18261261231521,
+    "Name": "Kamato",
+    "Contributions": [
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 669612451209,
+    "Name": "Kanus",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 5067121698209,
+    "Name": "Kaurukat",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 74
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 118
+      }
+    ]
+  },
+  {
+    "Address": 5070880122241,
+    "Name": "Kurumanit",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 206
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 390
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 58
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 7
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 669
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 52
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 18
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 3
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 45
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 9
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "ProtectiveMembraneScrap",
+        "Amount": 4
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 462
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 9
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 12
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 12
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "OverwatchCAPI",
+        "Type": "ProtectiveMembraneScrap",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 294
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 31
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 82
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 7
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "ProtectiveMembraneScrap",
+        "Amount": 4
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 147
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 18
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 3
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 3
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "ProtectiveMembraneScrap",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 122
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 7266950653321,
+    "Name": "Lahua",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 17
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "ProtectiveMembraneScrap",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 7266682217865,
+    "Name": "Liu Huang",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 116
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 105
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 150
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 22
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 14
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 29
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Address": 7266413782417,
+    "Name": "Luggerates",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 109
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 319
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 495
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 9
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 9
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 166
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 480
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 90
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionPassengerEvacuation",
+        "Amount": 5
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 69
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 790
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 126
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 91
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 1306
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 1719
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 6
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidOrthrus",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 95
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 428
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidOrthrus",
+        "Amount": 21
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionThargoidControlledSettlementReboot",
+        "Amount": 3
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 69
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 714
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionPassengerEvacuation",
+        "Amount": 12
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 50
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 80
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 19
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidProbeCollection",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 212
+      }
+    ]
+  },
+  {
+    "Address": 3382655881922,
+    "Name": "Mahlina",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 80
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 65
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 159
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 247
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 93
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 36
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 75
+      }
+    ]
+  },
+  {
+    "Address": 9468926633345,
+    "Name": "Mapon",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 20
+      }
+    ]
+  },
+  {
+    "Address": 908352066242,
+    "Name": "MCC 105",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 11
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 2558022062794,
+    "Name": "Montioch",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 702
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 11
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 5
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 731
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 27
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 8
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 3
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1488
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 5
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 3
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 751
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 836
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 530
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 30
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 12
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 499
+      }
+    ]
+  },
+  {
+    "Address": 9469194675609,
+    "Name": "Neites",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 6681190666954,
+    "Name": "Putas",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 22659307808153,
+    "Name": "Nu Guang",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 1183632528074,
+    "Name": "Omumba",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 1602
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 322
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 2547
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 1287
+      }
+    ]
+  },
+  {
+    "Address": 5856557011650,
+    "Name": "Qinganu",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 4756575654594,
+    "Name": "Sambaho",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 57
+      }
+    ]
+  },
+  {
+    "Address": 6681190765250,
+    "Name": "Skiraja",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 5067121763737,
+    "Name": "Snoqui",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 11
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 17
+      }
+    ]
+  },
+  {
+    "Address": 2243843557699,
+    "Name": "Pleiades Sector DL-Y d65",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 22
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 5067927397769,
+    "Name": "Tougeir",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 194
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 18
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 70
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 7
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "ProtectiveMembraneScrap",
+        "Amount": 5
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 40
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 101
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 62
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 17
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 24
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 27
+      }
+    ]
+  },
+  {
+    "Address": 5070879794585,
+    "Name": "Uibus",
+    "Contributions": [
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 3343355201891,
+    "Name": "Vistnero",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 15
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 7
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 158
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 36
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 1700
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 28
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 160
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 16
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 178
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 23
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 166
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 85
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 193
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 42
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionThargoidKill",
+        "Amount": 18
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 1160
+      }
+    ]
+  },
+  {
+    "Address": 2346973137243,
+    "Name": "Vocovii",
+    "Contributions": [
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 3932411695810,
+    "Name": "Vucumatha",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 9
+      }
+    ]
+  },
+  {
+    "Address": 7267755828657,
+    "Name": "Wolf 636",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 7
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 12
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 9467315758441,
+    "Name": "Hyades Sector ST-Q b5-4",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 15
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 6
+      }
+    ]
+  },
+  {
+    "Address": 3961830492523,
+    "Name": "Pegasi Sector GW-W d1-115",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 44
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 35
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 133
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 39
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 60
+      }
+    ]
+  },
+  {
+    "Address": 173109404844,
+    "Name": "64 Tauri",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 13
+      }
+    ]
+  },
+  {
+    "Address": 7269903377793,
+    "Name": "Col 285 Sector WY-F b12-3",
+    "Contributions": [
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      }
+    ]
+  },
+  {
+    "Address": 2871856866689,
+    "Name": "Col 285 Sector WY-F b12-1",
+    "Contributions": [
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 21
+      }
+    ]
+  },
+  {
+    "Address": 5070880187777,
+    "Name": "Col 285 Sector UD-G b12-2",
+    "Contributions": [
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 3107777974978,
+    "Name": "Col 285 Sector ZE-P c6-11",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 5068732376425,
+    "Name": "Arietis Sector JR-V b2-2",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 24
+      }
+    ]
+  },
+  {
+    "Address": 1384866892123,
+    "Name": "58 Tauri",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 6
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 111
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 22
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Address": 1733119906482,
+    "Name": "HIP 20082",
+    "Contributions": [
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      }
+    ]
+  },
+  {
+    "Address": 2868635116929,
+    "Name": "Arietis Sector ZP-P b5-1",
+    "Contributions": [
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 37
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 10
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 222
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 5
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 89
+      }
+    ]
+  },
+  {
+    "Address": 11668486366609,
+    "Name": "Col 285 Sector SH-B b14-5",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 36
+      }
+    ]
+  },
+  {
+    "Address": 1458443260610,
+    "Name": "Col 285 Sector IG-O c6-5",
+    "Contributions": [
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Address": 9465168274841,
+    "Name": "Pegasi Sector JH-U b3-4",
+    "Contributions": [
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 51
+      }
+    ]
+  },
+  {
+    "Address": 9465705473417,
+    "Name": "Cephei Sector BV-Y b4",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 6
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 20
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 6
+      }
+    ]
+  },
+  {
+    "Address": 669612451201,
+    "Name": "Lyncis Sector WU-P b5-0",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 25
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 38
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidRevenant",
+        "Amount": 21
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 80
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 50
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidRevenant",
+        "Amount": 47
+      }
+    ]
+  },
+  {
+    "Address": 7266682217857,
+    "Name": "Cephei Sector XO-A b3",
+    "Contributions": [
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 32
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidRevenant",
+        "Amount": 19
+      }
+    ]
+  },
+  {
+    "Address": 669344015753,
+    "Name": "Cephei Sector AV-Y b0",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 6
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidOrthrus",
+        "Amount": 3
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 20
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 107
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 2312579828059,
+    "Name": "HIP 21654",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 30
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 5856154391234,
+    "Name": "Cephei Sector AF-A c21",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 41
+      }
+    ]
+  },
+  {
+    "Address": 1281787677019,
+    "Name": "HIP 20146",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 14
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 118
+      }
+    ]
+  },
+  {
+    "Address": 673638589849,
+    "Name": "Col 285 Sector VS-Z b14-0",
+    "Contributions": [
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 35
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 112
+      }
+    ]
+  },
+  {
+    "Address": 5031923290818,
+    "Name": "Col 285 Sector BA-P c6-18",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 10
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 33
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 7
+      }
+    ]
+  },
+  {
+    "Address": 203174175916,
+    "Name": "80 Tauri",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 54
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 19
+      }
+    ]
+  },
+  {
+    "Address": 79247165795,
+    "Name": "HIP 30377",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 19
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 6
+      }
+    ]
+  },
+  {
+    "Address": 4207356613322,
+    "Name": "Col 285 Sector KW-M c7-15",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 7
+      }
+    ]
+  },
+  {
+    "Address": 5071148164497,
+    "Name": "Col 285 Sector RH-B b14-2",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 1934656276835,
+    "Name": "19 Puppis",
+    "Contributions": [
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 3
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "ProtectiveMembraneScrap",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 5067658962313,
+    "Name": "Cephei Sector BV-Y b2",
+    "Contributions": [
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 2832900068034,
+    "Name": "Col 285 Sector ZE-P c6-10",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 18
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 10
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 15
+      }
+    ]
+  },
+  {
+    "Address": 2871588431233,
+    "Name": "Col 285 Sector VY-F b12-1",
+    "Contributions": [
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 9
+      }
+    ]
+  },
+  {
+    "Address": 2484378519899,
+    "Name": "HIP 22422",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 9465437037953,
+    "Name": "Cephei Sector WO-A b4",
+    "Contributions": [
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      }
+    ]
+  },
+  {
+    "Address": 4482167509698,
+    "Name": "Col 285 Sector ZE-P c6-16",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 17
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 7
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 44
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 2868635641225,
+    "Name": "Cephei Sector DQ-Y b1",
+    "Contributions": [
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Address": 5071148230041,
+    "Name": "Col 285 Sector TS-Z b14-2",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 20
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 4482234520266,
+    "Name": "Col 285 Sector KW-M c7-16",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 3309045778779,
+    "Name": "Col 285 Sector OC-V d2-96",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 29
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 29
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 379
+      }
+    ]
+  },
+  {
+    "Address": 1109972191587,
+    "Name": "HIP 6572",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 18
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 18
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 411
+      }
+    ]
+  },
+  {
+    "Address": 22960358050520,
+    "Name": "Hyades Sector JD-G a12-1",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 21
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 50
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 22
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 18
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 32
+      }
+    ]
+  },
+  {
+    "Address": 9465973253513,
+    "Name": "Hyades Sector NT-I b9-4",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 4207289602754,
+    "Name": "Col 285 Sector ZE-P c6-15",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 31
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 17
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 31
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 2869977556329,
+    "Name": "Arietis Sector KR-V b2-1",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 10
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidRevenant",
+        "Amount": 14
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 9
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 36
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 27
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 29
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidRevenant",
+        "Amount": 31
+      }
+    ]
+  },
+  {
+    "Address": 9468926633337,
+    "Name": "Col 285 Sector SS-H b11-4",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 20
+      }
+    ]
+  },
+  {
+    "Address": 3382722892490,
+    "Name": "Col 285 Sector KW-M c7-12",
+    "Contributions": [
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 15
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 23
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 13
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 198
+      }
+    ]
+  },
+  {
+    "Address": 1281838008675,
+    "Name": "HIP 30439",
+    "Contributions": [
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 49
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 12
+      }
+    ]
+  },
+  {
+    "Address": 2868635706769,
+    "Name": "Cephei Sector FB-X b1-1",
+    "Contributions": [
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 11667949888889,
+    "Name": "Col 285 Sector SS-H b11-5",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 65
+      }
+    ]
+  },
+  {
+    "Address": 5071685100945,
+    "Name": "Col 285 Sector RM-B b14-2",
+    "Contributions": [
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 49
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 33
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 528
+      }
+    ]
+  },
+  {
+    "Address": 113539811683,
+    "Name": "HIP 3006",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 38
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 32
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 17
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidOrthrus",
+        "Amount": 3
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 248
+      }
+    ]
+  },
+  {
+    "Address": 2871856801153,
+    "Name": "Col 285 Sector YT-F b12-1",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 908284891858,
+    "Name": "HIP 112595",
+    "Contributions": [
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 19
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 5
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 120
+      }
+    ]
+  },
+  {
+    "Address": 2832899969738,
+    "Name": "Col 285 Sector JW-M c7-10",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 9469194675601,
+    "Name": "Col 285 Sector RH-B b14-4",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 16
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 11
+      }
+    ]
+  },
+  {
+    "Address": 7269902656897,
+    "Name": "Synuefe OU-D b45-3",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Address": 2871856211337,
+    "Name": "Col 285 Sector UH-C b13-1",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 10
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 20460284552601,
+    "Name": "Pegasi Sector JH-U b3-9",
+    "Contributions": [
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 24
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 76
+      }
+    ]
+  },
+  {
+    "Address": 9464899773857,
+    "Name": "Pegasi Sector OI-S b4-4",
+    "Contributions": [
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 21
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 21
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 290
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 5
+      },
+      {
+        "Date": "2023-08-29",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 11
+      }
+    ]
+  },
+  {
+    "Address": 40536437967672,
+    "Name": "Pegasi Sector RE-N a8-2",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 6
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 22
+      }
+    ]
+  },
+  {
+    "Address": 5071416599953,
+    "Name": "Col 285 Sector SH-B b14-2",
+    "Contributions": [
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 672833021321,
+    "Name": "Col 285 Sector SM-C b13-0",
+    "Contributions": [
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 24
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 24
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 264
+      }
+    ]
+  },
+  {
+    "Address": 7269634352513,
+    "Name": "Col 285 Sector NG-E b12-3",
+    "Contributions": [
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 32
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 32
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 412
+      }
+    ]
+  },
+  {
+    "Address": 147949848923,
+    "Name": "HIP 19600",
+    "Contributions": [
+      {
+        "Date": "2023-08-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 1183229809346,
+    "Name": "HIP 6570",
+    "Contributions": [
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 17
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 26
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 459
+      }
+    ]
+  },
+  {
+    "Address": 9468657608065,
+    "Name": "Col 285 Sector NG-E b12-4",
+    "Contributions": [
+      {
+        "Date": "2023-08-27",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 26
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 26
+      },
+      {
+        "Date": "2023-08-27",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 405
+      }
+    ]
+  },
+  {
+    "Address": 3657533788866,
+    "Name": "Col 285 Sector ZE-P c6-13",
+    "Contributions": [
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 19
+      }
+    ]
+  },
+  {
+    "Address": 669880231305,
+    "Name": "Hyades Sector NT-I b9-0",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 14
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 14
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 299
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 11
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 11
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 54
+      }
+    ]
+  },
+  {
+    "Address": 2283076981434,
+    "Name": "Col 285 Sector EA-Q c5-8",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 8
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 95
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 21
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 21
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 298
+      }
+    ]
+  },
+  {
+    "Address": 5070879401345,
+    "Name": "Col 285 Sector SW-D b12-2",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 8
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 304
+      },
+      {
+        "Date": "2023-08-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 8
+      },
+      {
+        "Date": "2023-08-26",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 145
+      }
+    ]
+  },
+  {
+    "Address": 672832890241,
+    "Name": "Synuefe OU-D b45-0",
+    "Contributions": [
+      {
+        "Date": "2023-08-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 15
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 15
+      },
+      {
+        "Date": "2023-08-24",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScout",
+        "Amount": 316
+      }
+    ]
+  },
+  {
+    "Address": 457153939779,
+    "Name": "HIP 21348",
+    "Contributions": [
+      {
+        "Date": "2023-08-28",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 3
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "Name": "Raijin",
+  "MeltdownTimeEstimate": "2024-10-24T05:10:00+00:00",
+  "CompletionTimeEstimate": "2024-10-23T05:10:00+00:00",
+  "Hearts": [
+    {
+      "HeartNumber": 1,
+      "DestructionTime": "2024-10-17T20:03:29+00:00"
+    },
+    {
+      "HeartNumber": 2,
+      "DestructionTime": "2024-10-18T09:47:28+00:00"
+    },
+    {
+      "HeartNumber": 3,
+      "DestructionTime": "2024-10-19T11:06:12+00:00"
+    },
+    {
+      "HeartNumber": 4,
+      "DestructionTime": "2024-10-20T13:24:44+00:00"
+    },
+    {
+      "HeartNumber": 5,
+      "DestructionTime": "2024-10-21T17:20:58+00:00"
+    },
+    {
+      "HeartNumber": 6,
+      "DestructionTime": "2024-10-22T15:47:14+00:00"
+    },
+    {
+      "HeartNumber": 7,
+      "DestructionTime": "2024-10-22T21:59:10+00:00"
+    },
+    {
+      "HeartNumber": 8,
+      "DestructionTime": "2024-10-23T05:10:00+00:00"
+    }
+  ]
+}

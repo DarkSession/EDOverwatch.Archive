@@ -1,0 +1,950 @@
+[
+  {
+    "Address": 3107643658938,
+    "Name": "Awara",
+    "Contributions": [
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 5532807765,
+    "Name": "5 Mu Leporis",
+    "Contributions": [
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 225
+      },
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 79
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 866
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 1916
+      }
+    ]
+  },
+  {
+    "Address": 5070074422649,
+    "Name": "Modigi",
+    "Contributions": [
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 233
+      },
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 446
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2854
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 5005
+      }
+    ]
+  },
+  {
+    "Address": 5070074488193,
+    "Name": "Imeut",
+    "Contributions": [
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 927
+      },
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 1555
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4752
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 15819
+      }
+    ]
+  },
+  {
+    "Address": 3382521565882,
+    "Name": "Ebisu",
+    "Contributions": [
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      }
+    ]
+  },
+  {
+    "Address": 2037718698331,
+    "Name": "HIP 23716",
+    "Contributions": [
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1979
+      },
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 9533
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 17748
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 94442
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 6586
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionDelivery",
+        "Amount": 49
+      }
+    ]
+  },
+  {
+    "Address": 11666875819385,
+    "Name": "Trianguli Sector FL-Y b5",
+    "Contributions": [
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 216054883492,
+    "Name": "Asterope",
+    "Contributions": [
+      {
+        "Date": "2022-11-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 508
+      },
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 140
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 99
+      }
+    ]
+  },
+  {
+    "Address": 5069806052729,
+    "Name": "Lubal",
+    "Contributions": [
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 147949865307,
+    "Name": "HIP 25679",
+    "Contributions": [
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 186
+      },
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 739
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1682
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 4484
+      }
+    ]
+  },
+  {
+    "Address": 2871051232625,
+    "Name": "Ixbalan",
+    "Contributions": [
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 543
+      },
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 139
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1450
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 1247
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 279
+      }
+    ]
+  },
+  {
+    "Address": 4207155286714,
+    "Name": "Trianguli Sector CA-A c15",
+    "Contributions": [
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      }
+    ]
+  },
+  {
+    "Address": 9468120999281,
+    "Name": "Hyades Sector BV-O b6-4",
+    "Contributions": [
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 3932277379778,
+    "Name": "Phrygiang",
+    "Contributions": [
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 5031789007554,
+    "Name": "Trianguli Sector GG-Y c18",
+    "Contributions": [
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 5306666914498,
+    "Name": "Didiomanja",
+    "Contributions": [
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 9468120933753,
+    "Name": "Hyades Sector HW-M b7-4",
+    "Contributions": [
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 5070074488185,
+    "Name": "Hyades Sector FB-N b7-2",
+    "Contributions": [
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 1831577045347,
+    "Name": "Nihal",
+    "Contributions": [
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 7269097743745,
+    "Name": "Matshiru",
+    "Contributions": [
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 868
+      },
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 734
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3282
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 8080
+      }
+    ]
+  },
+  {
+    "Address": 2931071895899,
+    "Name": "Trianguli Sector BA-A d85",
+    "Contributions": [
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 12
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 7
+      }
+    ]
+  },
+  {
+    "Address": 672027977089,
+    "Name": "Vukurbeh",
+    "Contributions": [
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 12
+      }
+    ]
+  },
+  {
+    "Address": 1900262951243,
+    "Name": "Delphi",
+    "Contributions": [
+      {
+        "Date": "2022-11-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 47
+      }
+    ]
+  },
+  {
+    "Address": 903847332195,
+    "Name": "59 Eridani",
+    "Contributions": [
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 7269097743737,
+    "Name": "Hyades Sector FB-N b7-3",
+    "Contributions": [
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 671759541625,
+    "Name": "Hyades Sector EB-N b7-0",
+    "Contributions": [
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Address": 112979862700,
+    "Name": "63 Eridani",
+    "Contributions": [
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 368
+      },
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 2021
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3896
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 24274
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 3047
+      }
+    ]
+  },
+  {
+    "Address": 11667144189305,
+    "Name": "Hyades Sector HW-M b7-5",
+    "Contributions": [
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      }
+    ]
+  },
+  {
+    "Address": 835127855451,
+    "Name": "HIP 23816",
+    "Contributions": [
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 9
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 10
+      }
+    ]
+  },
+  {
+    "Address": 672027911545,
+    "Name": "Hyades Sector HW-M b7-0",
+    "Contributions": [
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 6
+      }
+    ]
+  },
+  {
+    "Address": 633742496442,
+    "Name": "HR 1737",
+    "Contributions": [
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 34
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 41
+      }
+    ]
+  },
+  {
+    "Address": 7269366244721,
+    "Name": "Ildano",
+    "Contributions": [
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 633742529210,
+    "Name": "29 e Orionis",
+    "Contributions": [
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 1797217306971,
+    "Name": "Hyades Sector HW-W d1-52",
+    "Contributions": [
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 253
+      },
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 216
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1197
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 5113
+      }
+    ]
+  },
+  {
+    "Address": 672027977073,
+    "Name": "Gandje",
+    "Contributions": [
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 27
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 17
+      }
+    ]
+  },
+  {
+    "Address": 224644818084,
+    "Name": "Merope",
+    "Contributions": [
+      {
+        "Date": "2022-11-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 270
+      },
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 74
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 21
+      }
+    ]
+  },
+  {
+    "Address": 13866167510393,
+    "Name": "Hyades Sector FB-N b7-6",
+    "Contributions": [
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 58
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 74
+      }
+    ]
+  },
+  {
+    "Address": 9467315627457,
+    "Name": "Lwalama",
+    "Contributions": [
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 672027977081,
+    "Name": "Hyades Sector FB-N b7-0",
+    "Contributions": [
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 1419209836875,
+    "Name": "Pleiades Sector HR-W d1-41",
+    "Contributions": [
+      {
+        "Date": "2022-11-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 11
+      },
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 2518755035483,
+    "Name": "Njorog",
+    "Contributions": [
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 39
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 22
+      }
+    ]
+  },
+  {
+    "Address": 13866167575929,
+    "Name": "Trianguli Sector EQ-Y b6",
+    "Contributions": [
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      }
+    ]
+  },
+  {
+    "Address": 672027911537,
+    "Name": "Hyades Sector DQ-O b6-0",
+    "Contributions": [
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      }
+    ]
+  },
+  {
+    "Address": 8216113749,
+    "Name": "Maia",
+    "Contributions": [
+      {
+        "Date": "2022-11-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 198
+      },
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 109
+      }
+    ]
+  },
+  {
+    "Address": 3107375157906,
+    "Name": "Pleiades Sector KC-V c2-11",
+    "Contributions": [
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 6
+      }
+    ]
+  },
+  {
+    "Address": 198875014308,
+    "Name": "Celaeno",
+    "Contributions": [
+      {
+        "Date": "2022-11-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 52
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      }
+    ]
+  },
+  {
+    "Address": 3412108233051,
+    "Name": "Hyades Sector GW-W d1-99",
+    "Contributions": [
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2022-11-30",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 1774711381,
+    "Name": "HR 1185",
+    "Contributions": [
+      {
+        "Date": "2022-11-28",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      }
+    ]
+  },
+  {
+    "Address": 2243843557699,
+    "Name": "Pleiades Sector DL-Y d65",
+    "Contributions": [
+      {
+        "Date": "2022-11-29",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 23
+      }
+    ]
+  }
+]

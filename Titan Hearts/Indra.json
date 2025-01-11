@@ -1,0 +1,39 @@
+{
+  "Name": "Indra",
+  "MeltdownTimeEstimate": "2024-07-09T21:50:00+00:00",
+  "CompletionTimeEstimate": "2024-07-08T21:50:00+00:00",
+  "Hearts": [
+    {
+      "HeartNumber": 1,
+      "DestructionTime": "2024-07-04T20:15:57+00:00"
+    },
+    {
+      "HeartNumber": 2,
+      "DestructionTime": "2024-07-05T16:53:02+00:00"
+    },
+    {
+      "HeartNumber": 3,
+      "DestructionTime": "2024-07-06T08:50:04+00:00"
+    },
+    {
+      "HeartNumber": 4,
+      "DestructionTime": "2024-07-07T00:56:25+00:00"
+    },
+    {
+      "HeartNumber": 5,
+      "DestructionTime": "2024-07-07T20:24:21+00:00"
+    },
+    {
+      "HeartNumber": 6,
+      "DestructionTime": "2024-07-08T13:32:35+00:00"
+    },
+    {
+      "HeartNumber": 7,
+      "DestructionTime": "2024-07-08T19:33:01+00:00"
+    },
+    {
+      "HeartNumber": 8,
+      "DestructionTime": "2024-07-08T21:50:00+00:00"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "Name": "Thor",
+  "MeltdownTimeEstimate": "2024-08-19T18:23:00+00:00",
+  "CompletionTimeEstimate": "2024-08-18T18:23:00+00:00",
+  "Hearts": [
+    {
+      "HeartNumber": 1,
+      "DestructionTime": "2024-08-15T16:20:05+00:00"
+    },
+    {
+      "HeartNumber": 2,
+      "DestructionTime": "2024-08-15T20:57:54+00:00"
+    },
+    {
+      "HeartNumber": 3,
+      "DestructionTime": "2024-08-16T05:31:12+00:00"
+    },
+    {
+      "HeartNumber": 4,
+      "DestructionTime": "2024-08-16T19:02:02+00:00"
+    },
+    {
+      "HeartNumber": 5,
+      "DestructionTime": "2024-08-17T07:41:46+00:00"
+    },
+    {
+      "HeartNumber": 6,
+      "DestructionTime": "2024-08-17T20:11:44+00:00"
+    },
+    {
+      "HeartNumber": 7,
+      "DestructionTime": "2024-08-18T11:00:03+00:00"
+    },
+    {
+      "HeartNumber": 8,
+      "DestructionTime": "2024-08-18T18:23:00+00:00"
+    }
+  ]
+}

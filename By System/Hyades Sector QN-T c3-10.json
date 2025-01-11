@@ -1,0 +1,56 @@
+{
+  "Address": 2832832860858,
+  "Name": "Hyades Sector QN-T c3-10",
+  "Population": 0,
+  "LowestRecordedPopulation": 0,
+  "X": 116.281250,
+  "Y": -81.562500,
+  "Z": -130.906250,
+  "States": [
+    {
+      "State": "Alert",
+      "Start": {
+        "CycleNumber": 6,
+        "Start": "2023-01-05T07:00:00+00:00",
+        "End": "2023-01-12T07:00:00+00:00"
+      },
+      "End": {
+        "CycleNumber": 6,
+        "Start": "2023-01-05T07:00:00+00:00",
+        "End": "2023-01-12T07:00:00+00:00"
+      },
+      "Titan": {
+        "Name": "Taranis"
+      },
+      "Progress": []
+    },
+    {
+      "State": "Controlled",
+      "Start": {
+        "CycleNumber": 7,
+        "Start": "2023-01-12T07:00:00+00:00",
+        "End": "2023-01-19T07:00:00+00:00"
+      },
+      "End": {
+        "CycleNumber": 32,
+        "Start": "2023-07-06T07:00:00+00:00",
+        "End": "2023-07-13T07:00:00+00:00"
+      },
+      "Titan": {
+        "Name": "Taranis"
+      },
+      "Progress": [
+        {
+          "Progress": 0.000000,
+          "Reported": "2023-03-26T13:48:22.383078+00:00",
+          "Updated": "2023-07-08T18:39:10.395525+00:00"
+        },
+        {
+          "Progress": 1.000000,
+          "Reported": "2023-07-09T03:38:17.708913+00:00",
+          "Updated": "2023-07-09T03:38:17.708914+00:00"
+        }
+      ]
+    }
+  ]
+}

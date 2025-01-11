@@ -1,0 +1,79 @@
+{
+  "Address": 2312579811675,
+  "Name": "Arietis Sector GG-Y d67",
+  "Population": 0,
+  "LowestRecordedPopulation": 0,
+  "X": -59.718750,
+  "Y": -137.718750,
+  "Z": -135.281250,
+  "States": [
+    {
+      "State": "None",
+      "Start": {
+        "CycleNumber": 4,
+        "Start": "2022-12-22T07:00:00+00:00",
+        "End": "2022-12-29T07:00:00+00:00"
+      },
+      "End": {
+        "CycleNumber": 6,
+        "Start": "2023-01-05T07:00:00+00:00",
+        "End": "2023-01-12T07:00:00+00:00"
+      },
+      "Titan": {
+        "Name": "Leigong"
+      },
+      "Progress": []
+    },
+    {
+      "State": "Alert",
+      "Start": {
+        "CycleNumber": 7,
+        "Start": "2023-01-12T07:00:00+00:00",
+        "End": "2023-01-19T07:00:00+00:00"
+      },
+      "End": {
+        "CycleNumber": 7,
+        "Start": "2023-01-12T07:00:00+00:00",
+        "End": "2023-01-19T07:00:00+00:00"
+      },
+      "Titan": {
+        "Name": "Leigong"
+      },
+      "Progress": [
+        {
+          "Progress": 0.000000,
+          "Reported": "2023-01-12T08:45:28.185859+00:00",
+          "Updated": "2023-01-12T08:45:28.185859+00:00"
+        }
+      ]
+    },
+    {
+      "State": "Controlled",
+      "Start": {
+        "CycleNumber": 8,
+        "Start": "2023-01-19T07:00:00+00:00",
+        "End": "2023-01-26T07:00:00+00:00"
+      },
+      "End": {
+        "CycleNumber": 33,
+        "Start": "2023-07-13T07:00:00+00:00",
+        "End": "2023-07-20T07:00:00+00:00"
+      },
+      "Titan": {
+        "Name": "Leigong"
+      },
+      "Progress": [
+        {
+          "Progress": 0.000000,
+          "Reported": "2023-03-26T13:45:52.046808+00:00",
+          "Updated": "2023-07-17T21:37:34+00:00"
+        },
+        {
+          "Progress": 1.000000,
+          "Reported": "2023-07-18T01:40:29.850921+00:00",
+          "Updated": "2023-07-18T01:40:29.850921+00:00"
+        }
+      ]
+    }
+  ]
+}

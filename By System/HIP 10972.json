@@ -1,0 +1,73 @@
+{
+  "Address": 908419011258,
+  "Name": "HIP 10972",
+  "Population": 0,
+  "LowestRecordedPopulation": 0,
+  "X": -57.093750,
+  "Y": -156.468750,
+  "Z": -136.250000,
+  "States": [
+    {
+      "State": "None",
+      "Start": {
+        "CycleNumber": 1,
+        "Start": "2022-12-01T07:00:00+00:00",
+        "End": "2022-12-08T07:00:00+00:00"
+      },
+      "End": {
+        "CycleNumber": 7,
+        "Start": "2023-01-12T07:00:00+00:00",
+        "End": "2023-01-19T07:00:00+00:00"
+      },
+      "Titan": {
+        "Name": "Leigong"
+      },
+      "Progress": []
+    },
+    {
+      "State": "Alert",
+      "Start": {
+        "CycleNumber": 8,
+        "Start": "2023-01-19T07:00:00+00:00",
+        "End": "2023-01-26T07:00:00+00:00"
+      },
+      "End": {
+        "CycleNumber": 8,
+        "Start": "2023-01-19T07:00:00+00:00",
+        "End": "2023-01-26T07:00:00+00:00"
+      },
+      "Titan": {
+        "Name": "Leigong"
+      },
+      "Progress": []
+    },
+    {
+      "State": "Controlled",
+      "Start": {
+        "CycleNumber": 9,
+        "Start": "2023-01-26T07:00:00+00:00",
+        "End": "2023-02-02T07:00:00+00:00"
+      },
+      "End": {
+        "CycleNumber": 33,
+        "Start": "2023-07-13T07:00:00+00:00",
+        "End": "2023-07-20T07:00:00+00:00"
+      },
+      "Titan": {
+        "Name": "Leigong"
+      },
+      "Progress": [
+        {
+          "Progress": 0.000000,
+          "Reported": "2023-03-26T14:20:12.768185+00:00",
+          "Updated": "2023-07-13T22:43:32+00:00"
+        },
+        {
+          "Progress": 1.000000,
+          "Reported": "2023-07-14T05:36:30.316865+00:00",
+          "Updated": "2023-07-15T16:48:28+00:00"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "Address": 9465973319049,
+  "Name": "Hyades Sector LY-I b9-4",
+  "Population": 0,
+  "LowestRecordedPopulation": 0,
+  "X": -65.562500,
+  "Y": -136.437500,
+  "Z": -78.500000,
+  "States": [
+    {
+      "State": "None",
+      "Start": {
+        "CycleNumber": 1,
+        "Start": "2022-12-01T07:00:00+00:00",
+        "End": "2022-12-08T07:00:00+00:00"
+      },
+      "End": {
+        "CycleNumber": 6,
+        "Start": "2023-01-05T07:00:00+00:00",
+        "End": "2023-01-12T07:00:00+00:00"
+      },
+      "Titan": {
+        "Name": "Leigong"
+      },
+      "Progress": []
+    },
+    {
+      "State": "Alert",
+      "Start": {
+        "CycleNumber": 7,
+        "Start": "2023-01-12T07:00:00+00:00",
+        "End": "2023-01-19T07:00:00+00:00"
+      },
+      "End": {
+        "CycleNumber": 7,
+        "Start": "2023-01-12T07:00:00+00:00",
+        "End": "2023-01-19T07:00:00+00:00"
+      },
+      "Titan": {
+        "Name": "Leigong"
+      },
+      "Progress": [
+        {
+          "Progress": 0.000000,
+          "Reported": "2023-01-12T08:43:37.898411+00:00",
+          "Updated": "2023-01-12T08:43:37.898411+00:00"
+        }
+      ]
+    },
+    {
+      "State": "Controlled",
+      "Start": {
+        "CycleNumber": 8,
+        "Start": "2023-01-19T07:00:00+00:00",
+        "End": "2023-01-26T07:00:00+00:00"
+      },
+      "End": {
+        "CycleNumber": 39,
+        "Start": "2023-08-24T07:00:00+00:00",
+        "End": "2023-08-31T07:00:00+00:00"
+      },
+      "Titan": {
+        "Name": "Leigong"
+      },
+      "Progress": [
+        {
+          "Progress": 0.000000,
+          "Reported": "2023-03-26T12:19:49.082884+00:00",
+          "Updated": "2023-08-30T11:34:47.322049+00:00"
+        },
+        {
+          "Progress": 1.000000,
+          "Reported": "2023-08-30T17:33:07.46737+00:00",
+          "Updated": "2023-08-30T17:33:07.46737+00:00"
+        }
+      ]
+    }
+  ]
+}

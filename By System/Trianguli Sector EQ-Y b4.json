@@ -1,0 +1,78 @@
+{
+  "Address": 9468121064825,
+  "Name": "Trianguli Sector EQ-Y b4",
+  "Population": 0,
+  "LowestRecordedPopulation": 0,
+  "X": 86.468750,
+  "Y": -55.531250,
+  "Z": -121.218750,
+  "States": [
+    {
+      "State": "None",
+      "Start": {
+        "CycleNumber": 1,
+        "Start": "2022-12-01T07:00:00+00:00",
+        "End": "2022-12-08T07:00:00+00:00"
+      },
+      "End": {
+        "CycleNumber": 2,
+        "Start": "2022-12-08T07:00:00+00:00",
+        "End": "2022-12-15T07:00:00+00:00"
+      },
+      "Titan": {
+        "Name": "Taranis"
+      },
+      "Progress": []
+    },
+    {
+      "State": "Alert",
+      "Start": {
+        "CycleNumber": 3,
+        "Start": "2022-12-15T07:00:00+00:00",
+        "End": "2022-12-22T07:00:00+00:00"
+      },
+      "End": {
+        "CycleNumber": 3,
+        "Start": "2022-12-15T07:00:00+00:00",
+        "End": "2022-12-22T07:00:00+00:00"
+      },
+      "Titan": {
+        "Name": "Taranis"
+      },
+      "Progress": []
+    },
+    {
+      "State": "Controlled",
+      "Start": {
+        "CycleNumber": 4,
+        "Start": "2022-12-22T07:00:00+00:00",
+        "End": "2022-12-29T07:00:00+00:00"
+      },
+      "End": {
+        "CycleNumber": 36,
+        "Start": "2023-08-03T07:00:00+00:00",
+        "End": "2023-08-10T07:00:00+00:00"
+      },
+      "Titan": {
+        "Name": "Taranis"
+      },
+      "Progress": [
+        {
+          "Progress": 0.000000,
+          "Reported": "2022-12-26T18:11:23.532383+00:00",
+          "Updated": "2022-12-26T18:11:23.532383+00:00"
+        },
+        {
+          "Progress": 0.000000,
+          "Reported": "2023-01-05T20:19:32.016338+00:00",
+          "Updated": "2023-08-09T19:56:27+00:00"
+        },
+        {
+          "Progress": 1.000000,
+          "Reported": "2023-08-09T23:10:12.215141+00:00",
+          "Updated": "2023-08-09T23:10:12.215141+00:00"
+        }
+      ]
+    }
+  ]
+}

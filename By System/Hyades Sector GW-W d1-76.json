@@ -1,0 +1,79 @@
+{
+  "Address": 2621834250587,
+  "Name": "Hyades Sector GW-W d1-76",
+  "Population": 0,
+  "LowestRecordedPopulation": 0,
+  "X": 63.656250,
+  "Y": -77.093750,
+  "Z": -137.187500,
+  "States": [
+    {
+      "State": "None",
+      "Start": {
+        "CycleNumber": 1,
+        "Start": "2022-12-01T07:00:00+00:00",
+        "End": "2022-12-08T07:00:00+00:00"
+      },
+      "End": {
+        "CycleNumber": 4,
+        "Start": "2022-12-22T07:00:00+00:00",
+        "End": "2022-12-29T07:00:00+00:00"
+      },
+      "Titan": {
+        "Name": "Taranis"
+      },
+      "Progress": []
+    },
+    {
+      "State": "Alert",
+      "Start": {
+        "CycleNumber": 5,
+        "Start": "2022-12-29T07:00:00+00:00",
+        "End": "2023-01-05T07:00:00+00:00"
+      },
+      "End": {
+        "CycleNumber": 5,
+        "Start": "2022-12-29T07:00:00+00:00",
+        "End": "2023-01-05T07:00:00+00:00"
+      },
+      "Titan": {
+        "Name": "Taranis"
+      },
+      "Progress": [
+        {
+          "Progress": 0.000000,
+          "Reported": "2022-12-31T02:49:35.39763+00:00",
+          "Updated": "2022-12-31T02:49:35.39763+00:00"
+        }
+      ]
+    },
+    {
+      "State": "Controlled",
+      "Start": {
+        "CycleNumber": 6,
+        "Start": "2023-01-05T07:00:00+00:00",
+        "End": "2023-01-12T07:00:00+00:00"
+      },
+      "End": {
+        "CycleNumber": 30,
+        "Start": "2023-06-22T07:00:00+00:00",
+        "End": "2023-06-29T07:00:00+00:00"
+      },
+      "Titan": {
+        "Name": "Taranis"
+      },
+      "Progress": [
+        {
+          "Progress": 0.000000,
+          "Reported": "2023-01-05T20:17:01.298097+00:00",
+          "Updated": "2023-06-27T05:32:28.839453+00:00"
+        },
+        {
+          "Progress": 1.000000,
+          "Reported": "2023-06-28T06:32:25.321809+00:00",
+          "Updated": "2023-06-29T05:34:46+00:00"
+        }
+      ]
+    }
+  ]
+}

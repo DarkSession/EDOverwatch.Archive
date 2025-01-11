@@ -1,0 +1,5630 @@
+[
+  {
+    "Address": 594676730147,
+    "Name": "Shenve",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 76
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 39
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 23
+      }
+    ]
+  },
+  {
+    "Address": 6681123623626,
+    "Name": "Deciat",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 7
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 20
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 13
+      }
+    ]
+  },
+  {
+    "Address": 1659761559915,
+    "Name": "Liabeze",
+    "Contributions": [
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Address": 1458309173970,
+    "Name": "Corbenic",
+    "Contributions": [
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 84
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 56
+      }
+    ]
+  },
+  {
+    "Address": 3657399571162,
+    "Name": "LTT 4487",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Address": 216054883492,
+    "Name": "Asterope",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 482
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 6
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 512
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 35
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHydra",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 713
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 80
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 235
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 455
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 23
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 407
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 477
+      }
+    ]
+  },
+  {
+    "Address": 5031856116434,
+    "Name": "Kamadhenu",
+    "Contributions": [
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 3932277478106,
+    "Name": "Shinrarta Dezhra",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 14
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 14
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Address": 1458376315610,
+    "Name": "Solati",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 1659744799067,
+    "Name": "HIP 20567",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 78
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 24
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 64
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 10
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidBiostorageCapsule",
+        "Amount": 17
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 64
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 92
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 7
+      }
+    ]
+  },
+  {
+    "Address": 671491433905,
+    "Name": "LFT 926",
+    "Contributions": [
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 14
+      }
+    ]
+  },
+  {
+    "Address": 7268024264097,
+    "Name": "Luyten\u0027s Star",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 19
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 24
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 79
+      }
+    ]
+  },
+  {
+    "Address": 560216394075,
+    "Name": "HIP 12099",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 800751356267,
+    "Name": "Procyon",
+    "Contributions": [
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 9
+      }
+    ]
+  },
+  {
+    "Address": 3107509506770,
+    "Name": "Tau Ceti",
+    "Contributions": [
+      {
+        "Date": "2024-12-25",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 10
+      }
+    ]
+  },
+  {
+    "Address": 10477373803,
+    "Name": "Sol",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 153
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "Inara",
+        "Type": "Rescue",
+        "Amount": 28535
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 190039
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "SupplyDelivery",
+        "Amount": 18364
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 6
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionDelivery",
+        "Amount": 102
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionSettlementReboot",
+        "Amount": 24
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleOrthrus",
+        "Amount": 9
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleGlaive",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleTitan",
+        "Amount": 49
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "ProtectiveMembraneScrap",
+        "Amount": 10
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidBiostorageCapsule",
+        "Amount": 197
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScythe",
+        "Amount": 7
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "EvacuatioRefugee",
+        "Amount": 866
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionRefugeeEvacuation",
+        "Amount": 85
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 220641
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "SupplyDelivery",
+        "Amount": 13626
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionDelivery",
+        "Amount": 27
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionSettlementReboot",
+        "Amount": 24
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleOrthrus",
+        "Amount": 26
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleGlaive",
+        "Amount": 14
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleTitan",
+        "Amount": 99
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "ProtectiveMembraneScrap",
+        "Amount": 28
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidBiostorageCapsule",
+        "Amount": 324
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScythe",
+        "Amount": 29
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 185186
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "SupplyDelivery",
+        "Amount": 10417
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionDelivery",
+        "Amount": 33
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionSettlementReboot",
+        "Amount": 6
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleOrthrus",
+        "Amount": 30
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleGlaive",
+        "Amount": 26
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleTitan",
+        "Amount": 137
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "ProtectiveMembraneScrap",
+        "Amount": 26
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidBiostorageCapsule",
+        "Amount": 335
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScythe",
+        "Amount": 13
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 265276
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "SupplyDelivery",
+        "Amount": 995
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionDelivery",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionSettlementReboot",
+        "Amount": 6
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleOrthrus",
+        "Amount": 32
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleGlaive",
+        "Amount": 35
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleTitan",
+        "Amount": 213
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "ProtectiveMembraneScrap",
+        "Amount": 40
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidBiostorageCapsule",
+        "Amount": 693
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScythe",
+        "Amount": 34
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 205176
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "SupplyDelivery",
+        "Amount": 12949
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionDelivery",
+        "Amount": 38
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionSettlementReboot",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleOrthrus",
+        "Amount": 21
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleGlaive",
+        "Amount": 17
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleTitan",
+        "Amount": 86
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "ProtectiveMembraneScrap",
+        "Amount": 11
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidBiostorageCapsule",
+        "Amount": 390
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScythe",
+        "Amount": 10
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 94439
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "SupplyDelivery",
+        "Amount": 4872
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionDelivery",
+        "Amount": 15
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionSettlementReboot",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleOrthrus",
+        "Amount": 27
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleGlaive",
+        "Amount": 20
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleTitan",
+        "Amount": 154
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "ProtectiveMembraneScrap",
+        "Amount": 25
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidBiostorageCapsule",
+        "Amount": 332
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScythe",
+        "Amount": 24
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 96147
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "OverwatchCAPI",
+        "Type": "SupplyDelivery",
+        "Amount": 1186
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionDelivery",
+        "Amount": 20
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleOrthrus",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleGlaive",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleTitan",
+        "Amount": 18
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "OverwatchCAPI",
+        "Type": "ProtectiveMembraneScrap",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidBiostorageCapsule",
+        "Amount": 28
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScythe",
+        "Amount": 7
+      }
+    ]
+  },
+  {
+    "Address": 121569805492,
+    "Name": "Sirius",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 56270
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "SupplyDelivery",
+        "Amount": 1431
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionDelivery",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 6
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionSettlementReboot",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 848
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 7
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 3932277478114,
+    "Name": "Leesti",
+    "Contributions": [
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 7
+      }
+    ]
+  },
+  {
+    "Address": 1900262951243,
+    "Name": "Delphi",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 18
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidProbeCollection",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 32
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 10
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 45
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 23
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 460
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 53
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 21
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 12
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 10
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHydra",
+        "Amount": 8
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 105
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 18
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 45
+      }
+    ]
+  },
+  {
+    "Address": 2243877128555,
+    "Name": "Eta-1 Pictoris",
+    "Contributions": [
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 1733388341962,
+    "Name": "Jura",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 7
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 6
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 1178708478315,
+    "Name": "Alpha Centauri",
+    "Contributions": [
+      {
+        "Date": "2024-12-25",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 10
+      }
+    ]
+  },
+  {
+    "Address": 84180519395914,
+    "Name": "Ogmar",
+    "Contributions": [
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 4786481006963,
+    "Name": "Qa\u0027wakana",
+    "Contributions": [
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 37
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 110
+      }
+    ]
+  },
+  {
+    "Address": 1213084993899,
+    "Name": "HR 4734",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 14
+      }
+    ]
+  },
+  {
+    "Address": 11666070709673,
+    "Name": "Lacaille 9352",
+    "Contributions": [
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 13
+      }
+    ]
+  },
+  {
+    "Address": 5069537945009,
+    "Name": "LHS 317",
+    "Contributions": [
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 1281821215083,
+    "Name": "CD-62 136",
+    "Contributions": [
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 9
+      }
+    ]
+  },
+  {
+    "Address": 2870514558377,
+    "Name": "CD-55 1514",
+    "Contributions": [
+      {
+        "Date": "2024-12-25",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 8
+      }
+    ]
+  },
+  {
+    "Address": 147916327275,
+    "Name": "Luyten 145-141",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleOrthrus",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleTitan",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "ProtectiveMembraneScrap",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidBiostorageCapsule",
+        "Amount": 5
+      }
+    ]
+  },
+  {
+    "Address": 6131300733658,
+    "Name": "Bunda",
+    "Contributions": [
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 28
+      }
+    ]
+  },
+  {
+    "Address": 9466778690993,
+    "Name": "Waba",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 2243860351339,
+    "Name": "Sigma Pegasi",
+    "Contributions": [
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 6
+      }
+    ]
+  },
+  {
+    "Address": 11666876016033,
+    "Name": "Kaura",
+    "Contributions": [
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 10
+      }
+    ]
+  },
+  {
+    "Address": 2832832860898,
+    "Name": "Hollos",
+    "Contributions": [
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 4339804408171,
+    "Name": "Duamta",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 29703
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 8
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionSettlementReboot",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 32273
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 31463
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 23713
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 11306
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 10230
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 26397
+      }
+    ]
+  },
+  {
+    "Address": 7269903115705,
+    "Name": "Rynchu",
+    "Contributions": [
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 8
+      }
+    ]
+  },
+  {
+    "Address": 203174175924,
+    "Name": "Inti",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 7268024264113,
+    "Name": "Luyten 205-128",
+    "Contributions": [
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 39
+      }
+    ]
+  },
+  {
+    "Address": 2875614897689,
+    "Name": "Musca Dark Region PJ-P b6-1",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 35
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 27
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 44
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 23
+      }
+    ]
+  },
+  {
+    "Address": 13864288724353,
+    "Name": "Imango",
+    "Contributions": [
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 27
+      }
+    ]
+  },
+  {
+    "Address": 18263140541865,
+    "Name": "Barnard\u0027s Star",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 2852
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionSettlementReboot",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 8329
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 234
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 4455
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "SupplyDelivery",
+        "Amount": 4455
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionDelivery",
+        "Amount": 70
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 2733
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "SupplyDelivery",
+        "Amount": 2875
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionDelivery",
+        "Amount": 48
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 437
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "SupplyDelivery",
+        "Amount": 2221
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "MissionCompletionDelivery",
+        "Amount": 23
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 549
+      }
+    ]
+  },
+  {
+    "Address": 633675420378,
+    "Name": "Hors",
+    "Contributions": [
+      {
+        "Date": "2024-12-25",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 13
+      }
+    ]
+  },
+  {
+    "Address": 358797546194,
+    "Name": "Cet",
+    "Contributions": [
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 11
+      }
+    ]
+  },
+  {
+    "Address": 216618994011,
+    "Name": "HIP 8887",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 61
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 67
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 58
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidBiostorageCapsule",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 35
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 39
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 43
+      }
+    ]
+  },
+  {
+    "Address": 4786481006955,
+    "Name": "Zhi",
+    "Contributions": [
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 19
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 15
+      }
+    ]
+  },
+  {
+    "Address": 4717761530219,
+    "Name": "Gendalla",
+    "Contributions": [
+      {
+        "Date": "2024-12-25",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 18
+      }
+    ]
+  },
+  {
+    "Address": 4477243361643,
+    "Name": "Kokary",
+    "Contributions": [
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 3858768071035,
+    "Name": "Macua",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 5068732638633,
+    "Name": "LHS 417",
+    "Contributions": [
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 24
+      }
+    ]
+  },
+  {
+    "Address": 10477357419,
+    "Name": "Munfayl",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 5068195636641,
+    "Name": "LHS 6408",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 15
+      }
+    ]
+  },
+  {
+    "Address": 8330323956442,
+    "Name": "Timbalderis",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 7267755828641,
+    "Name": "Groombridge 34",
+    "Contributions": [
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 21
+      }
+    ]
+  },
+  {
+    "Address": 1178725255531,
+    "Name": "Delkar",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 93341987261248,
+    "Name": "Njemari",
+    "Contributions": [
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 35
+      }
+    ]
+  },
+  {
+    "Address": 66038577537618,
+    "Name": "Luchtaine",
+    "Contributions": [
+      {
+        "Date": "2024-12-25",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 28
+      }
+    ]
+  },
+  {
+    "Address": 3034117572971,
+    "Name": "Pareco",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 14
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 16
+      }
+    ]
+  },
+  {
+    "Address": 83986649818,
+    "Name": "Jotunheim",
+    "Contributions": [
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 20
+      }
+    ]
+  },
+  {
+    "Address": 671491761585,
+    "Name": "Mimurtudji",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 24
+      }
+    ]
+  },
+  {
+    "Address": 908419109586,
+    "Name": "Adad",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 5068464334225,
+    "Name": "Gree",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 66
+      }
+    ]
+  },
+  {
+    "Address": 2557753660122,
+    "Name": "Gliese 868",
+    "Contributions": [
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 17
+      }
+    ]
+  },
+  {
+    "Address": 24860210308521,
+    "Name": "Wolf 359",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 6587
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 3023
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 16878
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 8854
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 7695
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 1008
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 467
+      }
+    ]
+  },
+  {
+    "Address": 13865899271593,
+    "Name": "Huangais",
+    "Contributions": [
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 15
+      }
+    ]
+  },
+  {
+    "Address": 4408557439331,
+    "Name": "Xinca",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 16
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 358864655058,
+    "Name": "Perkele",
+    "Contributions": [
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 12
+      }
+    ]
+  },
+  {
+    "Address": 11666070644121,
+    "Name": "LP 532-81",
+    "Contributions": [
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 32
+      }
+    ]
+  },
+  {
+    "Address": 2862335641955,
+    "Name": "GCRV 1568",
+    "Contributions": [
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Address": 4683418569067,
+    "Name": "Ejagham",
+    "Contributions": [
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 27
+      }
+    ]
+  },
+  {
+    "Address": 224644818084,
+    "Name": "Merope",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 35
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 94
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 97
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 45
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 151
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 153
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 125
+      }
+    ]
+  },
+  {
+    "Address": 908486251218,
+    "Name": "Epsilon Indi",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 9
+      }
+    ]
+  },
+  {
+    "Address": 2243877144939,
+    "Name": "Zavijah",
+    "Contributions": [
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 10
+      }
+    ]
+  },
+  {
+    "Address": 13864825595297,
+    "Name": "LHS 1885",
+    "Contributions": [
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 5
+      }
+    ]
+  },
+  {
+    "Address": 3858768054635,
+    "Name": "Huichi",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 6
+      }
+    ]
+  },
+  {
+    "Address": 44837112171,
+    "Name": "Zeta Tucanae",
+    "Contributions": [
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 22
+      }
+    ]
+  },
+  {
+    "Address": 27072119940,
+    "Name": "California Sector BA-A e6",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 31
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 130
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 78
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 34
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 6
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHydra",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 86
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 16
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 63
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 12
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 151
+      }
+    ]
+  },
+  {
+    "Address": 2862352435563,
+    "Name": "RR Caeli",
+    "Contributions": [
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 13866167510393,
+    "Name": "Hyades Sector FB-N b7-6",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 61
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleOrthrus",
+        "Amount": 10
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 8
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleGlaive",
+        "Amount": 9
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleTitan",
+        "Amount": 11
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "ProtectiveMembraneScrap",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidBiostorageCapsule",
+        "Amount": 8
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScythe",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 54
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidBiostorageCapsule",
+        "Amount": 7
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 42
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 89
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleOrthrus",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleGlaive",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleTitan",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "ProtectiveMembraneScrap",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScythe",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 182
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 6
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleTitan",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 104
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 123
+      }
+    ]
+  },
+  {
+    "Address": 22961432316752,
+    "Name": "DEN 0255-4700",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleOrthrus",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidBiostorageCapsule",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 663329163627,
+    "Name": "HIP 17298",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 2587474545011,
+    "Name": "Lemastshi",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 16
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 669612320129,
+    "Name": "Chuanabosso",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 37
+      }
+    ]
+  },
+  {
+    "Address": 27059233564073,
+    "Name": "Wolf 424",
+    "Contributions": [
+      {
+        "Date": "2024-12-25",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 26
+      }
+    ]
+  },
+  {
+    "Address": 2869172446593,
+    "Name": "Tegidana",
+    "Contributions": [
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 15
+      }
+    ]
+  },
+  {
+    "Address": 5366025177936,
+    "Name": "WISE 1506\u002B7027",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 3231
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 11093
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 31561
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 19496
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 7923
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 1107
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 4647
+      }
+    ]
+  },
+  {
+    "Address": 2869977884057,
+    "Name": "Etain",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 30
+      }
+    ]
+  },
+  {
+    "Address": 671491368377,
+    "Name": "LTT 5212",
+    "Contributions": [
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 3932210205402,
+    "Name": "Kamchansan",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 16
+      }
+    ]
+  },
+  {
+    "Address": 2869709186481,
+    "Name": "LP 932-12",
+    "Contributions": [
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 38054081340841,
+    "Name": "IL Aquarii",
+    "Contributions": [
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 65
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 28
+      }
+    ]
+  },
+  {
+    "Address": 1458242065098,
+    "Name": "V2689 Orionis",
+    "Contributions": [
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 23
+      }
+    ]
+  },
+  {
+    "Address": 9467584456105,
+    "Name": "Atum",
+    "Contributions": [
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 6
+      }
+    ]
+  },
+  {
+    "Address": 9467047519649,
+    "Name": "YZ Canis Minoris",
+    "Contributions": [
+      {
+        "Date": "2024-12-25",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Address": 4786497784171,
+    "Name": "Ditibi",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 3657265320658,
+    "Name": "Epsilon Eridani",
+    "Contributions": [
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 972583586155,
+    "Name": "HIP 35096",
+    "Contributions": [
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 5856288576210,
+    "Name": "61 Cygni",
+    "Contributions": [
+      {
+        "Date": "2024-12-25",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 8
+      }
+    ]
+  },
+  {
+    "Address": 1419209836875,
+    "Name": "Pleiades Sector HR-W d1-41",
+    "Contributions": [
+      {
+        "Date": "2024-12-21",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 9
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 22
+      }
+    ]
+  },
+  {
+    "Address": 5069537813937,
+    "Name": "LHS 2310",
+    "Contributions": [
+      {
+        "Date": "2024-12-25",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Address": 3932009140962,
+    "Name": "Col 285 Sector DS-I c10-14",
+    "Contributions": [
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 6
+      }
+    ]
+  },
+  {
+    "Address": 5370319752016,
+    "Name": "Gwaelod",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 16
+      }
+    ]
+  },
+  {
+    "Address": 1458376282810,
+    "Name": "Na Chac Og",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 9
+      }
+    ]
+  },
+  {
+    "Address": 220349850788,
+    "Name": "Sterope II",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 6131233559258,
+    "Name": "Mahimata",
+    "Contributions": [
+      {
+        "Date": "2024-12-25",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Address": 271889458340,
+    "Name": "HR 1183",
+    "Contributions": [
+      {
+        "Date": "2024-12-21",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      }
+    ]
+  },
+  {
+    "Address": 2008266248914,
+    "Name": "Miwae",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 18
+      }
+    ]
+  },
+  {
+    "Address": 2557820801746,
+    "Name": "Izanagi",
+    "Contributions": [
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 32
+      }
+    ]
+  },
+  {
+    "Address": 2283010036442,
+    "Name": "LTT 4835",
+    "Contributions": [
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Address": 2037718714723,
+    "Name": "Betel",
+    "Contributions": [
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 7268024198569,
+    "Name": "Lacaille 8760",
+    "Contributions": [
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 22
+      }
+    ]
+  },
+  {
+    "Address": 13863751787961,
+    "Name": "Yembo",
+    "Contributions": [
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 9
+      }
+    ]
+  },
+  {
+    "Address": 16064654091689,
+    "Name": "Charunder",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 16
+      }
+    ]
+  },
+  {
+    "Address": 3377748511067,
+    "Name": "Cailla",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 16
+      }
+    ]
+  },
+  {
+    "Address": 13864825595305,
+    "Name": "Struve 2398",
+    "Contributions": [
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 422777457003,
+    "Name": "Lalande 37120",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 10
+      }
+    ]
+  },
+  {
+    "Address": 3107576615642,
+    "Name": "Moepirt",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 17
+      }
+    ]
+  },
+  {
+    "Address": 9466778625473,
+    "Name": "Contiku",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 633608344274,
+    "Name": "Delta Pavonis",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 19
+      }
+    ]
+  },
+  {
+    "Address": 44651151173033,
+    "Name": "Bidmere",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 2587474528619,
+    "Name": "LAWD 26",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 3274652502379,
+    "Name": "Ra",
+    "Contributions": [
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 3382521598666,
+    "Name": "Biliri",
+    "Contributions": [
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 8
+      }
+    ]
+  },
+  {
+    "Address": 6131300700882,
+    "Name": "Raugeni",
+    "Contributions": [
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 22
+      }
+    ]
+  },
+  {
+    "Address": 8216113749,
+    "Name": "Maia",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 11
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 30
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 13
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 173
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 163
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 8
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 12
+      }
+    ]
+  },
+  {
+    "Address": 4481899041474,
+    "Name": "Wathiparian",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 6
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 24
+      }
+    ]
+  },
+  {
+    "Address": 3377731717475,
+    "Name": "Ki",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 12
+      }
+    ]
+  },
+  {
+    "Address": 1694121314651,
+    "Name": "88 d Tauri",
+    "Contributions": [
+      {
+        "Date": "2024-12-25",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 7267755632049,
+    "Name": "LTT 9455",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 22
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 3107375157906,
+    "Name": "Pleiades Sector KC-V c2-11",
+    "Contributions": [
+      {
+        "Date": "2024-12-21",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 14
+      }
+    ]
+  },
+  {
+    "Address": 11667681125785,
+    "Name": "Kumui",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 9468389696921,
+    "Name": "Dalannovale",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 15
+      }
+    ]
+  },
+  {
+    "Address": 671760000449,
+    "Name": "Mulukang",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 8
+      }
+    ]
+  },
+  {
+    "Address": 9467852957113,
+    "Name": "Lei Zi",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 8
+      }
+    ]
+  },
+  {
+    "Address": 908620436170,
+    "Name": "Omicron Columbae",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 319715002691,
+    "Name": "HIP 22460",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 8
+      }
+    ]
+  },
+  {
+    "Address": 1041286302059,
+    "Name": "LTT 4497",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 10
+      }
+    ]
+  },
+  {
+    "Address": 8605134754522,
+    "Name": "Chambo",
+    "Contributions": [
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 11
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 14
+      }
+    ]
+  },
+  {
+    "Address": 2282741568202,
+    "Name": "LTT 16764",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 7
+      }
+    ]
+  },
+  {
+    "Address": 4207021134546,
+    "Name": "Lalande 18115",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 6
+      }
+    ]
+  },
+  {
+    "Address": 9467315627441,
+    "Name": "Mundjiga",
+    "Contributions": [
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 22
+      }
+    ]
+  },
+  {
+    "Address": 1183364158186,
+    "Name": "LHS 5333",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 28
+      }
+    ]
+  },
+  {
+    "Address": 9467316086185,
+    "Name": "LP 493-64",
+    "Contributions": [
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 18
+      }
+    ]
+  },
+  {
+    "Address": 11664996705689,
+    "Name": "Polevnic",
+    "Contributions": [
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 9467315955121,
+    "Name": "Hill Pa Hsi",
+    "Contributions": [
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 5
+      }
+    ]
+  },
+  {
+    "Address": 1556682377579,
+    "Name": "Zeta Trianguli Australis",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 17
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 21
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 4168022493547,
+    "Name": "Sosolingati",
+    "Contributions": [
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 237529719972,
+    "Name": "HIP 17692",
+    "Contributions": [
+      {
+        "Date": "2024-12-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 9
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 10
+      }
+    ]
+  },
+  {
+    "Address": 671222867369,
+    "Name": "LHS 531",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 5581410669282,
+    "Name": "Pienate",
+    "Contributions": [
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 8
+      }
+    ]
+  },
+  {
+    "Address": 5070074422641,
+    "Name": "Hyades Sector DQ-O b6-2",
+    "Contributions": [
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 6
+      }
+    ]
+  },
+  {
+    "Address": 5381056908104,
+    "Name": "Damontae",
+    "Contributions": [
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 8
+      }
+    ]
+  },
+  {
+    "Address": 358730437330,
+    "Name": "LHS 200",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 31
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 19
+      }
+    ]
+  },
+  {
+    "Address": 5067926742305,
+    "Name": "Pleiades Sector PD-S b4-2",
+    "Contributions": [
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 8
+      }
+    ]
+  },
+  {
+    "Address": 11665265337769,
+    "Name": "NLTT 53690",
+    "Contributions": [
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 7
+      }
+    ]
+  },
+  {
+    "Address": 2871051429297,
+    "Name": "DzaliTemu",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 10
+      }
+    ]
+  },
+  {
+    "Address": 1591025338731,
+    "Name": "41 Gamma Serpentis",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 35
+      }
+    ]
+  },
+  {
+    "Address": 22660918617513,
+    "Name": "Kruger 60",
+    "Contributions": [
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 198875014308,
+    "Name": "Celaeno",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 10
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 55
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 115
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 7
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 23
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 18
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 18
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 22
+      }
+    ]
+  },
+  {
+    "Address": 18263140541857,
+    "Name": "G 99-49",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 3382521696986,
+    "Name": "Barann",
+    "Contributions": [
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Address": 4207155286738,
+    "Name": "Negrito",
+    "Contributions": [
+      {
+        "Date": "2024-12-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 20
+      }
+    ]
+  },
+  {
+    "Address": 5856489837266,
+    "Name": "Bunuson",
+    "Contributions": [
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 17
+      }
+    ]
+  },
+  {
+    "Address": 113556572515,
+    "Name": "Hecate",
+    "Contributions": [
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 30
+      }
+    ]
+  },
+  {
+    "Address": 5069000484273,
+    "Name": "Njambalba",
+    "Contributions": [
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 83785421514,
+    "Name": "G 218-5",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 1109989001579,
+    "Name": "Arcturus",
+    "Contributions": [
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 26
+      }
+    ]
+  },
+  {
+    "Address": 908419076802,
+    "Name": "HIP 9599",
+    "Contributions": [
+      {
+        "Date": "2024-12-25",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 21
+      }
+    ]
+  },
+  {
+    "Address": 53394193818186,
+    "Name": "Eol Procul Centauri",
+    "Contributions": [
+      {
+        "Date": "2024-12-25",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 2869172381073,
+    "Name": "NLTT 6655",
+    "Contributions": [
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 11667144320417,
+    "Name": "Nauani",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 15
+      }
+    ]
+  },
+  {
+    "Address": 20462163797409,
+    "Name": "G 89-32",
+    "Contributions": [
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 4
+      }
+    ]
+  },
+  {
+    "Address": 2833235251778,
+    "Name": "Siniang",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 23
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 60
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 30
+      }
+    ]
+  },
+  {
+    "Address": 1458443424466,
+    "Name": "LTT 3690",
+    "Contributions": [
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 35
+      }
+    ]
+  },
+  {
+    "Address": 22793921684,
+    "Name": "HIP 23759",
+    "Contributions": [
+      {
+        "Date": "2024-12-23",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 18
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 26
+      }
+    ]
+  },
+  {
+    "Address": 2869977687433,
+    "Name": "LHS 1743",
+    "Contributions": [
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 672564782497,
+    "Name": "Arapa",
+    "Contributions": [
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 1733119972042,
+    "Name": "Zephyrus",
+    "Contributions": [
+      {
+        "Date": "2024-12-25",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 10
+      }
+    ]
+  },
+  {
+    "Address": 7268024264089,
+    "Name": "LP 205-44",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 17
+      }
+    ]
+  },
+  {
+    "Address": 2007930704594,
+    "Name": "LTT 9593",
+    "Contributions": [
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Address": 7267755763089,
+    "Name": "LHS 1573",
+    "Contributions": [
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 7
+      }
+    ]
+  },
+  {
+    "Address": 9467316086153,
+    "Name": "Lie Zip",
+    "Contributions": [
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 5069001074073,
+    "Name": "Ross 93",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 25
+      }
+    ]
+  },
+  {
+    "Address": 1774711381,
+    "Name": "HR 1185",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 11
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 10
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 18
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 25
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 22
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 7269902853545,
+    "Name": "Swazakano",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 12
+      }
+    ]
+  },
+  {
+    "Address": 16063848785313,
+    "Name": "LFT 215",
+    "Contributions": [
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 633742529226,
+    "Name": "CD-36 1916",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 17
+      }
+    ]
+  },
+  {
+    "Address": 3446484765027,
+    "Name": "Chingaa",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 47
+      }
+    ]
+  },
+  {
+    "Address": 254709589156,
+    "Name": "Atlas",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 9
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 4756911166170,
+    "Name": "Albicevci",
+    "Contributions": [
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 17
+      }
+    ]
+  },
+  {
+    "Address": 6131367842530,
+    "Name": "Ancalufon",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 10
+      }
+    ]
+  },
+  {
+    "Address": 9465704949153,
+    "Name": "Arabrakale",
+    "Contributions": [
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 148
+      }
+    ]
+  },
+  {
+    "Address": 6406178607842,
+    "Name": "Asgara",
+    "Contributions": [
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 10
+      }
+    ]
+  },
+  {
+    "Address": 3932411531978,
+    "Name": "Autinestes",
+    "Contributions": [
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 16
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 11
+      }
+    ]
+  },
+  {
+    "Address": 3515204225395,
+    "Name": "Kano",
+    "Contributions": [
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 16
+      }
+    ]
+  },
+  {
+    "Address": 1732985721554,
+    "Name": "BD\u002B35 4893",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Address": 2557619475130,
+    "Name": "Cail",
+    "Contributions": [
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 14
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 35
+      }
+    ]
+  },
+  {
+    "Address": 7268828915129,
+    "Name": "Dagao",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 2037701937507,
+    "Name": "Deriv-Dar",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 19
+      }
+    ]
+  },
+  {
+    "Address": 5856221401834,
+    "Name": "Djabijabus",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 23
+      }
+    ]
+  },
+  {
+    "Address": 5306734121690,
+    "Name": "Eeyen",
+    "Contributions": [
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 5
+      }
+    ]
+  },
+  {
+    "Address": 7267755566553,
+    "Name": "Erivara",
+    "Contributions": [
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 8
+      }
+    ]
+  },
+  {
+    "Address": 670685930921,
+    "Name": "Gliese 875",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 19
+      }
+    ]
+  },
+  {
+    "Address": 4481764889290,
+    "Name": "Gui Banni",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 20
+      }
+    ]
+  },
+  {
+    "Address": 3932143129306,
+    "Name": "HIP 116492",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 1625418598771,
+    "Name": "HIP 117035",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 113590110579,
+    "Name": "HIP 1914",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 67
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 672564913577,
+    "Name": "HIP 34698",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 7
+      }
+    ]
+  },
+  {
+    "Address": 1316180969835,
+    "Name": "HIP 39391",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 5
+      }
+    ]
+  },
+  {
+    "Address": 4545996392811,
+    "Name": "Igorisa",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 13
+      }
+    ]
+  },
+  {
+    "Address": 669075711393,
+    "Name": "Iverni",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 5
+      }
+    ]
+  },
+  {
+    "Address": 5067658569113,
+    "Name": "Kachinas",
+    "Contributions": [
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 14
+      }
+    ]
+  },
+  {
+    "Address": 5031453463258,
+    "Name": "Kachirigin",
+    "Contributions": [
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 11667680863649,
+    "Name": "Kalvante",
+    "Contributions": [
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 3
+      }
+    ]
+  },
+  {
+    "Address": 40549323000600,
+    "Name": "Khodhis",
+    "Contributions": [
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 15
+      }
+    ]
+  },
+  {
+    "Address": 5068732311001,
+    "Name": "Kuung Wa",
+    "Contributions": [
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 21
+      }
+    ]
+  },
+  {
+    "Address": 2832631501530,
+    "Name": "LTT 9697",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 14
+      }
+    ]
+  },
+  {
+    "Address": 2558022062794,
+    "Name": "Montioch",
+    "Contributions": [
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 20
+      }
+    ]
+  },
+  {
+    "Address": 3382722859730,
+    "Name": "Nerrete",
+    "Contributions": [
+      {
+        "Date": "2024-12-25",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 8
+      }
+    ]
+  },
+  {
+    "Address": 9155091829482,
+    "Name": "Ngadjuk",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 16
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 7
+      }
+    ]
+  },
+  {
+    "Address": 84120933090,
+    "Name": "Nu Chamaelontis",
+    "Contributions": [
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 11667412952489,
+    "Name": "Nunet",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 16
+      }
+    ]
+  },
+  {
+    "Address": 5856557011650,
+    "Name": "Qinganu",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 5507
+      }
+    ]
+  },
+  {
+    "Address": 908351935170,
+    "Name": "Ross 545",
+    "Contributions": [
+      {
+        "Date": "2024-12-25",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 40
+      }
+    ]
+  },
+  {
+    "Address": 6405977281266,
+    "Name": "Sakaere",
+    "Contributions": [
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 55
+      }
+    ]
+  },
+  {
+    "Address": 2243843557699,
+    "Name": "Pleiades Sector DL-Y d65",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 7
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 92
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 13
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 16
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 3657265255146,
+    "Name": "Ts\u0027ai Shai",
+    "Contributions": [
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 35
+      }
+    ]
+  },
+  {
+    "Address": 9467852170673,
+    "Name": "Ullangwa",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 4756978176722,
+    "Name": "Windjabar",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 23
+      }
+    ]
+  },
+  {
+    "Address": 7267755828657,
+    "Name": "Wolf 636",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 15
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 9
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 23
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 5
+      }
+    ]
+  },
+  {
+    "Address": 1453569575243,
+    "Name": "Pleiades Sector HR-W d1-42",
+    "Contributions": [
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 3932008944346,
+    "Name": "Pegasi Sector PN-T c3-14",
+    "Contributions": [
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 11
+      }
+    ]
+  },
+  {
+    "Address": 5306801197762,
+    "Name": "Col 285 Sector BA-P c6-19",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 234
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 258
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "Inara",
+        "Type": "SupplyDelivery",
+        "Amount": 6808
+      }
+    ]
+  },
+  {
+    "Address": 5581679104722,
+    "Name": "Col 285 Sector JM-L c8-20",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 24
+      }
+    ]
+  },
+  {
+    "Address": 972482890003,
+    "Name": "California Sector HR-W d1-28",
+    "Contributions": [
+      {
+        "Date": "2024-12-21",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 8
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 131
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHydra",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 675
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 34
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 16
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 713
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 11664728532353,
+    "Name": "Hyades Sector UV-L b8-5",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 29
+      }
+    ]
+  },
+  {
+    "Address": 3381850378786,
+    "Name": "California Sector JH-V c2-12",
+    "Contributions": [
+      {
+        "Date": "2024-12-21",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 24
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 69
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 18
+      }
+    ]
+  },
+  {
+    "Address": 2347040246147,
+    "Name": "Musca Dark Region CQ-Y d68",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 1458443260610,
+    "Name": "Col 285 Sector IG-O c6-5",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 27
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 30
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 23
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 28
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 32
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 24
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 22
+      }
+    ]
+  },
+  {
+    "Address": 358663197330,
+    "Name": "Pleiades Sector LC-V c2-1",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidProbeCollection",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidMedusa",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 7265876583833,
+    "Name": "Pegasi Sector IH-U b3-3",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 104
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleGlaive",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleTitan",
+        "Amount": 9
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "ProtectiveMembraneScrap",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidBiostorageCapsule",
+        "Amount": 13
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 31
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleOrthrus",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleTitan",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "ProtectiveMembraneScrap",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 75
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleTitan",
+        "Amount": 7
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "ProtectiveMembraneScrap",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 98
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleTitan",
+        "Amount": 9
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "ProtectiveMembraneScrap",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidBiostorageCapsule",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 53
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleTitan",
+        "Amount": 13
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "ProtectiveMembraneScrap",
+        "Amount": 9
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 28
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleTitan",
+        "Amount": 12
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "ProtectiveMembraneScrap",
+        "Amount": 7
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 30
+      }
+    ]
+  },
+  {
+    "Address": 9465705473417,
+    "Name": "Cephei Sector BV-Y b4",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 122
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleOrthrus",
+        "Amount": 11
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleGlaive",
+        "Amount": 8
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleTitan",
+        "Amount": 25
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "ProtectiveMembraneScrap",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidBiostorageCapsule",
+        "Amount": 74
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScythe",
+        "Amount": 12
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 187
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleOrthrus",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 6
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleGlaive",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleTitan",
+        "Amount": 10
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "ProtectiveMembraneScrap",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidBiostorageCapsule",
+        "Amount": 107
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScythe",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 122
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleOrthrus",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleTitan",
+        "Amount": 15
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "ProtectiveMembraneScrap",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidBiostorageCapsule",
+        "Amount": 10
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 73
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 65
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleOrthrus",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidBiostorageCapsule",
+        "Amount": 9
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScythe",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 90
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 85
+      }
+    ]
+  },
+  {
+    "Address": 7266682283401,
+    "Name": "Cephei Sector ZZ-Y b3",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 14
+      }
+    ]
+  },
+  {
+    "Address": 667464311921,
+    "Name": "NGC 1514 Sector OE-P b6-0",
+    "Contributions": [
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidScout",
+        "Amount": 6
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidBasilisk",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "Address": 79247165795,
+    "Name": "HIP 30377",
+    "Contributions": [
+      {
+        "Date": "2024-12-19",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 33
+      },
+      {
+        "Date": "2024-12-19",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 15
+      },
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidBiostorageCapsule",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 51
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidCyclops",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-21",
+        "Source": "OverwatchCAPI",
+        "Type": "KillThargoidHunter",
+        "Amount": 5
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 35
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleOrthrus",
+        "Amount": 2
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleGlaive",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleTitan",
+        "Amount": 4
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "ProtectiveMembraneScrap",
+        "Amount": 1
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "ThargoidBiostorageCapsule",
+        "Amount": 8
+      },
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "TissueSampleScythe",
+        "Amount": 3
+      },
+      {
+        "Date": "2024-12-23",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 37
+      },
+      {
+        "Date": "2024-12-24",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 51
+      },
+      {
+        "Date": "2024-12-25",
+        "Source": "Inara",
+        "Type": "KillGeneric",
+        "Amount": 17
+      }
+    ]
+  },
+  {
+    "Address": 29263625528849,
+    "Name": "Musca Dark Region KD-R b5-13",
+    "Contributions": [
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 2690520156491,
+    "Name": "Pleiades Sector HR-W d1-78",
+    "Contributions": [
+      {
+        "Date": "2024-12-22",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 84657836810,
+    "Name": "HR 4747",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "Address": 633474028290,
+    "Name": "Col 285 Sector HI-A c14-2",
+    "Contributions": [
+      {
+        "Date": "2024-12-20",
+        "Source": "OverwatchCAPI",
+        "Type": "Recovery",
+        "Amount": 4
+      }
+    ]
+  }
+]
